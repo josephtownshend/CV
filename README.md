@@ -1,4 +1,4 @@
-## Your Name
+## Joseph Townshend
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +34,24 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Royal College of Art (2014 –– 2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MA Visual Communication
+- Distinction
+
+#### Central St Martins (2010 –– 2013)
+- BA Design Interaction
+- First Class Honors
+
+#### Central St Martins (2009 –– 2010)
+- Foundation Diploma
+- Merit
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Housework(Press)** (start_date to end_date)    
+*Founder*  
+**Joseph Townshend Studio** (start_date to end_date)   
+*Founder*  
