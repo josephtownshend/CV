@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (May 2019)
+#### Makers Academy (May 2019 –– August 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,7 +34,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Royal College of Art (2014 –– 2016)
+#### The Royal College of Art (2014 –– 2016)
 
 - MA Visual Communication
 - Distinction
@@ -45,9 +45,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Central St Martins (2009 –– 2010)
 - Foundation Diploma
-- Merit
 
 #### Any other qualifications
+- 3 A-levels
+- 9 GCSEs
 
 ## Experience
 
