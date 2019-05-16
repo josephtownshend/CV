@@ -51,7 +51,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Housework(Press)** (start_date to end_date)    
+**[Housework(Press)](www.housework.press)** (2016 –– 2019)    
+*Founder*
+
+Housework(Press) was as a South East London based *Risograph* print press, and publishing company dedicated to realising experimental and process-driven design and art.
+
+In its 3 years of operation we had well over 200 jobs come through the doors from clients such as *The Design Museum, The Serpentine, Studio Moross, The British Fashion Council, Architectural Association, Europa* and *The Royal College of Art.*
+
+**[Joseph Townshend Studio](www.joe-t.com)** (2010 –– 2019)   
 *Founder*  
-**Joseph Townshend Studio** (start_date to end_date)   
-*Founder*  
+
+Since embarking on my graphic design eductaion I have continuously worked as a freelance and selfemployed graphic designer. I have a key interest in print design and in combination with my experience at Housework(Press) I have since become well known for my playful, vibrant Risograph poster work. Recent clients include *Black Tower Projects, Kestle Barton Gallery, Lauren Keeley* and *Newlyn Art Gallery*
