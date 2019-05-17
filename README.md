@@ -70,7 +70,7 @@ Since embarking on my graphic design eductaion I have continuously worked as a f
 During my time at Jotta I worked on multiple projects for clients including *Heiniken, Samsung, Intel* and *Pernod Ricard*. I worked predominantly as a creative, which included roles such as set design and build as well as curating events and installations. Along side my creative work I also produced the in-house graphic design throughout that period. 
 
 **[South Kiosk](http://www.southkiosk.com/)** (2013 –– 2014)
-*Freelance Designer & Creative*
+*Freelance Designer & Creative* 
 
 
 
