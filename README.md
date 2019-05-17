@@ -46,7 +46,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Central St Martins (2009 –– 2010)
 - Foundation Diploma
 
-#### Any other qualifications
+#### Other qualifications
 - 3 A-levels
 - 9 GCSEs
 
@@ -70,7 +70,7 @@ Since embarking on my graphic design eductaion I have continuously worked as a f
 During my time at Jotta I worked on multiple projects for clients including *Heiniken, Samsung, Intel* and *Pernod Ricard*. I worked predominantly as a creative, which included roles such as set design and build as well as curating events and installations. Along side my creative work I also produced the in-house graphic design throughout that period. 
 
 **[South Kiosk](http://www.southkiosk.com/)** (2013 –– 2014)
-*Freelance Graphic Designer* 
+*Freelance Graphic Designer*
 
 During my time at South Kiosk my role was as graphic designer, I worked on in-house print ephemera as well as digital marketing and assets. 
 
