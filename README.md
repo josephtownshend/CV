@@ -77,3 +77,8 @@ During my time at Jotta I worked on multiple projects for clients including *Hei
 During my time at South Kiosk my role was as graphic designer, I worked on in-house print ephemera as well as digital marketing and assets.
 
 ## Interests
+
+* Keen cross country runner, motivated climber and dedicated yogi.
+* Spending time outdooors (ideally up mountains), hiking in the UK has become a big passion for me.
+* Vegan coooking.
+* Devouring books on machine learning. 
