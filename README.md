@@ -1,5 +1,7 @@
 ## Joseph Townshend
 
+[Skills](#skills) –– [Education](#education) –– [Experience](#experience) –– [Interests](#interests)
+
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
@@ -73,3 +75,5 @@ During my time at Jotta I worked on multiple projects for clients including *Hei
 *Freelance Graphic Designer*
 
 During my time at South Kiosk my role was as graphic designer, I worked on in-house print ephemera as well as digital marketing and assets.
+
+## Interests
