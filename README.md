@@ -33,8 +33,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, JavaScript
+- RSpec, Jasmine, Cypress
 
 #### The Royal College of Art (2014 –– 2016)
 
