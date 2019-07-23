@@ -60,12 +60,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 Housework(Press) was as a South East London based *Risograph* print press and publishing company dedicated to realising experimental and process-driven design and art.
 
-In 3 years of operation it had well over 200 jobs come through its doors from clients such as *The Design Museum, The Serpentine, Studio Moross, The British Fashion Council, Architectural Association, Europa* and *The Royal College of Art.*
+In 3 years of operation we had well over 200 jobs from clients such as *The Design Museum, The Serpentine, Studio Moross, The British Fashion Council, Architectural Association, Europa* and *The Royal College of Art.*
 
 **[Joseph Townshend Studio](www.joe-t.com)** (2010 –– 2019)   
 *Founder*  
 
-Since embarking on my graphic design eductaion I have continuously worked as a freelance and selfemployed graphic designer. I have a key interest in print design and in combination with my experience at Housework(Press) I have since become well known for my playful, vibrant Risograph poster work and book design. Recent clients include *Black Tower Projects, Kestle Barton Gallery, Lauren Keeley* and *Newlyn Art Gallery*
+Since embarking on my graphic design eductaion I have continuously worked as a freelance and selfemployed graphic designer. I have a key interest in print design and in combination with my experience at Housework(Press) I have since become well known for my playful, vibrant Risograph poster work and book design. Recent clients include *Black Tower Projects, Kestle Barton Gallery,* and *Newlyn Art Gallery*
 
 **[Jotta](www.jotta.com)** (2013 –– 2014)\
 *Freelance Graphic Designer & Creative*
@@ -80,6 +80,6 @@ During my time at South Kiosk my role was as graphic designer, I worked on in-ho
 ## Interests
 
 * Keen cross country runner, motivated climber and dedicated yogi.
-* Spending time outdooors (ideally up mountains), hiking in the UK has become a big passion for me.
-* Vegan coooking.
-* Devouring books on machine learning. 
+* Spending time outdooors (ideally up a mountain).
+* Vegan coooking - a quest to find great meat alternatives.
+* Trying to write blog posts. 
