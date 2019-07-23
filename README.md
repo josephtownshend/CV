@@ -11,7 +11,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - Mentoring
-  - During my time at Makers Academy I mentored two students through the beginings of their coding journey. This was a great challenge for me, and an oppertunity to coach students through areas that I too had struggled with. It also allowed me to see my own progress and how teaching others can help instill that knowledge in yourself. 
+  - During my time at Makers Academy I mentored two students through the beginings of their coding journey. This was a great challenge for me, and an oppertunity to coach students through areas that I too had struggled with. It also shon a light on my own progress and how teaching others can help instill that knowledge in yourself. I have written a blog post about this experience, which has been published to Medium and is also avaliable in my `Blogs` repo.
 - Achievements
 - Evidence
 
