@@ -55,7 +55,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**[Housework(Press)](www.housework.press)** (2016 –– 2019)    
+**[(www.housework.press)]** (2016 –– 2019)    
 *Founder*
 
 Housework(Press) was as a South East London based *Risograph* print press and publishing company dedicated to realising experimental and process-driven design and art.
