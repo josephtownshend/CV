@@ -76,7 +76,7 @@ During my time at Jotta I worked on multiple projects for clients including *Hei
 **<a href="http://www.southkiosk.com" target="blank">South Kiosk</a>** (2013 –– 2014)\
 *Freelance Graphic Designer*
 
-During my time at South Kiosk my role was as graphic designer, I worked on in-house print ephemera as well as digital marketing and assets.
+During my time at South Kiosk my role was as graphic designer, I worked on in-house print ephemera as well as digital marketing and assets. I worked on the visual identity for Vestige, an exhibition of nostalgic tech held at the Design Museum, London.
 
 ## Interests
 
