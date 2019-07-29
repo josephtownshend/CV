@@ -11,10 +11,11 @@ I am an early career full stack software developer currently studying at Makers 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - Mentoring
-  - During my time at Makers Academy I mentored two students through the beginings of their coding journey. This was a great challenge for me, and an oppertunity to coach students through areas that I too had struggled with. It also shon a light on my own progress and how teaching others can help instill that knowledge in yourself. I have written a blog post about this experience, which is avaliable to read in my blogs repo.
-- CoderDojo
-  - I have recently started volunteering at CoderDojo, a free, global and volunteer led programming club for young people. They use Scratch which is a block-based visual programming language, it has been a great oppertunity to learn something new and try to teach that skill. 
-- Evidence
+  - Makers Mentor
+    - During my time at Makers Academy I mentored two students through the beginings of their coding journey. This was a great challenge for me, and an oppertunity to coach students through areas that I too had struggled with. It also shon a light on my own progress and how teaching others can help instill that knowledge in yourself. I have written a blog post about this experience, which is avaliable to read in my blogs repo.
+  - CoderDojo
+    - I have recently started volunteering at CoderDojo, a free, global and volunteer led programming club for young people. They teach primarliy with Scratch, a block-based visual programming language developed by MIT, it has been a great oppertunity to learn something new and try to teach that skill. 
+
 
 #### Another Skill
 
