@@ -2,7 +2,7 @@
 
 [Skills](#skills) –– [Education](#education) –– [Experience](#experience) –– [Interests](#interests)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am an early career full stack software developer currently studying at Makers Academy. 
 
 ## Skills
 
@@ -28,9 +28,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (May 2019 –– August 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+* Curious and passionate about code - **<a href="https://github.com/josephtownshend/Parrot" target="blank">Parrot</a>**
+* Fast, independent learner [PROVIDE EVIDENCE]
+* Great collaborator [PROVIDE EVIDENCE]
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
