@@ -2,7 +2,7 @@
 
 [Skills](#skills) –– [Education](#education) –– [Experience](#experience) –– [Interests](#interests) –– [Blog](https://github.com/josephtownshend/Blog)
 
-I am an early career full stack software developer currently studying at Makers Academy. 
+I am an early career full stack software developer currently studying at Makers Academy. My background is in Graphic Design and print - I am a passionate creative problem solver and love learning new things to solve existing problems 
 
 ## Skills
 
