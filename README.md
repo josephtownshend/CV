@@ -39,15 +39,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### The Royal College of Art (2014 –– 2016)
 
-- MA Visual Communication
-- Distinction
+- MA Visual Communication (Distinction)
 
 #### Central St Martins (2010 –– 2013)
-- BA Design Interaction
-- First Class Honors
+- BA Design Interaction (First Class Honors)
 
 #### Central St Martins (2009 –– 2010)
-- Foundation Diploma
+- Foundation Diploma (Merit)
 
 #### Other qualifications
 - 3 A-levels
