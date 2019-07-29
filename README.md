@@ -2,7 +2,7 @@
 
 [Skills](#skills) –– [Education](#education) –– [Experience](#experience) –– [Interests](#interests) –– [Blog](https://github.com/josephtownshend/Blog)
 
-I am an early career full stack software developer currently studying at Makers Academy. My background is in Graphic Design and print - I am a passionate creative problem solver and love learning new things to solve existing problems 
+I am an early career full stack software developer currently studying at Makers Academy in London. My background is in graphic design, print and the visual arts in which I studied for 6 years. I ran two successful design and print studios before finally deciding to take my love of learning into the world of tech, I haven't looked back. I am a passionate creative problem solver and love learning new processes in order to build workarounds for troublesome situations.
 
 ## Skills
 
