@@ -1,6 +1,6 @@
 ## Joseph Townshend
 
-[Skills](#skills) –– [Education](#education) –– [Experience](#experience) –– [Interests](#interests)
+[Skills](#skills) –– [Education](#education) –– [Experience](#experience) –– [Interests](#interests) –– [Blog](https://github.com/josephtownshend/Blog)
 
 I am an early career full stack software developer currently studying at Makers Academy. 
 
@@ -61,17 +61,17 @@ Housework(Press) was as a South East London based *Risograph* print press and pu
 
 In 3 years of operation we had well over 200 jobs from clients such as *The Design Museum, The Serpentine, Studio Moross, The British Fashion Council, Architectural Association, Europa* and *The Royal College of Art.*
 
-**[Joseph Townshend Studio](www.joe-t.com)** (2010 –– 2019)   
+**<a href="http://www.joe-t.com" target="blank">Joseph Townshend Studio</a>** (2010 –– 2019)   
 *Founder*  
 
 Since embarking on my graphic design eductaion I have continuously worked as a freelance and selfemployed graphic designer. I have a key interest in print design and in combination with my experience at Housework(Press) I have since become well known for my playful, vibrant Risograph poster work and book design. Recent clients include *Black Tower Projects, Kestle Barton Gallery,* and *Newlyn Art Gallery*
 
-**[Jotta](www.jotta.com)** (2013 –– 2014)\
+**<a href="http://www.jotta.com" target="blank">Jotta</a>** (2013 –– 2014)\
 *Freelance Graphic Designer & Creative*
 
 During my time at Jotta I worked on multiple projects for clients including *Heiniken, Samsung, Intel* and *Pernod Ricard*. I worked predominantly as a creative, which included roles such as set design and build as well as curating events and installations. Along side my creative work I also produced the in-house graphic design throughout that period. 
 
-**[South Kiosk](www.southkiosk.com)** (2013 –– 2014)\
+**<a href="http://www.southkiosk.com" target="blank">South Kiosk</a>** (2013 –– 2014)\
 *Freelance Graphic Designer*
 
 During my time at South Kiosk my role was as graphic designer, I worked on in-house print ephemera as well as digital marketing and assets.
