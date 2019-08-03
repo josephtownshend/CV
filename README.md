@@ -2,19 +2,17 @@
 
 [Skills](#skills) –– [Education](#education) –– [Experience](#experience) –– [Interests](#interests) –– [Blog](https://github.com/josephtownshend/Blog)
 
-I am an early career full stack software developer currently studying at Makers Academy in London. My background is in graphic design, print and the visual arts in which I studied for 6 years. I ran two successful design and print studios before finally deciding to take my love of learning into the world of tech, I haven't looked back. I am a passionate creative problem solver and love learning new processes in order to build workarounds for troublesome situations.
+I am an early career full stack software developer currently studying at Makers Academy in London. My background is in graphic design, print and the visual arts in which I studied for 6 years. I ran two successful design and print studios before finally deciding to take my love of learning into the world of tech, I haven't looked back. I am a passionate creative problem solver and lover of learning, particuarly new processes to help build workarounds for troublesome situations.
 
 ## Skills
 
 #### This Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
 - Mentoring
   - Makers Mentor
     - During my time at Makers Academy I mentored two students through the beginings of their coding journey. This was a great challenge for me, and an oppertunity to coach students through areas that I too had struggled with. It also shon a light on my own progress and how teaching others can help instill that knowledge in yourself. I have written a blog post about this experience, which is avaliable to read in my blogs repo.
-  - CoderDojo
-    - I have recently started volunteering at CoderDojo, a free, global and volunteer led programming club for young people. They teach primarliy with Scratch, a block-based visual programming language developed by MIT, it has been a great oppertunity to learn something new and try to teach that skill. 
+  - CoderDojo Mentor
+    - I have recently become a mentor at a local CoderDojo, which is a free, global and volunteer led programming club for young people. We use Blockly and Scratch, both of which are block-based visual programming languages, developed by Google and MIT respectively. It has been a great oppertunity to learn something new and try to teach that skill to students with little to no experience. 
 
 
 #### Another Skill
