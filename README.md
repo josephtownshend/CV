@@ -26,14 +26,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (May 2019 –– August 2019)
 
-* Curious and passionate about code - **<a href="https://github.com/josephtownshend/Parrot" target="blank">Parrot</a>**
-* Fast, independent learner - **<a href="https://github.com/josephtownshend/FizzBuzz_In_Every_Language" target="blank">FizzBuzz In Every Language</a>**
-* Great collaborator **Forest Lang**
+* Curious Coder - **<a href="https://github.com/josephtownshend/Parrot" target="blank">Parrot</a>**
+* Fast Learner - **<a href="https://github.com/josephtownshend/FizzBuzz_In_Every_Language" target="blank">FizzBuzz Every Language</a>**
+* Team Player - **<a href="https://github.com/lucianmot/f.rest" target="blank">Forest Lang</a>**
 
-- OOP, TDD, MVC, DDD
+- TDD
 - Agile/XP
-- Ruby, JavaScript
-- RSpec, Jasmine, Cypress
+- Ruby, JavaScript, Python
+- RSpec, Jasmine, Unittest
 
 #### The Royal College of Art (2014 –– 2016)
 
