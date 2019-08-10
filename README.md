@@ -2,7 +2,7 @@
 
 [Skills](#skills) –– [Education](#education) –– [Experience](#experience) –– [Interests](#interests) –– [Blog](https://github.com/josephtownshend/Blog)
 
-I am an early career full stack software developer currently studying at Makers Academy in London. My background is in graphic design, print and the visual arts in which I studied for 6 years. I ran two successful design and print studios before finally deciding to take my love of learning into the world of tech, I haven't looked back. I am a passionate creative problem solver and lover of learning, particuarly new processes to help build workarounds for troublesome situations.
+I am an early career full stack software developer currently studying at Makers Academy in London. My background is in graphic design, print and the visual arts in which I studied for 6 years. I ran two successful design and print studios before finally deciding to take my love of learning into the world of tech, I haven't looked back. I am a passionate creative problem solver and always on the look out for new processes to help build workarounds for troublesome situations.
 
 ## Skills
 
@@ -11,8 +11,6 @@ I am an early career full stack software developer currently studying at Makers 
 - Mentoring
   - Makers Mentor
     - During my time at Makers Academy I mentored two students through the beginings of their coding journey. This was a great challenge for me, and an oppertunity to coach students through areas that I too had struggled with. It also shon a light on my own progress and how teaching others can help instill that knowledge in yourself. I have written a blog post about this experience, which is avaliable to read in my blogs repo.
-  - CoderDojo Mentor
-    - I have recently become a mentor at a local CoderDojo, which is a free, global and volunteer led programming club for young people. We use Blockly and Scratch, both of which are block-based visual programming languages, developed by Google and MIT respectively. It has been a great oppertunity to learn something new and try to teach that skill to students with little to no experience. 
 
 
 #### Another Skill
@@ -29,8 +27,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Makers Academy (May 2019 –– August 2019)
 
 * Curious and passionate about code - **<a href="https://github.com/josephtownshend/Parrot" target="blank">Parrot</a>**
-* Fast, independent learner [PROVIDE EVIDENCE]
-* Great collaborator [PROVIDE EVIDENCE]
+* Fast, independent learner - **<a href="https://github.com/josephtownshend/FizzBuzz_In_Every_Language" target="blank">FizzBuzz In Every Language</a>**
+* Great collaborator **Forest Lang**
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -53,6 +51,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
+**<a href="https://coderdojo.com/" target="blank">CoderDojo</a>** (2019)    
+*Mentor*
+
+I have recently become a mentor at a local CoderDojo, which is a free, global and volunteer led programming club for young people. We use Blockly and Scratch, both of which are block-based visual programming languages, developed by Google and MIT respectively. It has been a great oppertunity to learn something new and try to teach that skill to students with little to no experience. 
 
 **<a href="http://www.housework.press" target="blank">Housework(Press)</a>** (2016 –– 2019)    
 *Founder*
@@ -78,7 +80,7 @@ During my time at South Kiosk my role was as graphic designer, I worked on in-ho
 
 ## Interests
 
-* Keen cross country runner, motivated climber and dedicated yogi.
+* Motivated climber and active member of Makers Climbing.
 * Spending time outdooors (ideally up a mountain).
 * Vegan coooking - a quest to find great meat alternatives.
 * Trying to write blog posts. 
