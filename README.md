@@ -9,9 +9,7 @@ I am an early career full stack software developer currently studying at Makers 
 #### This Skill
 
 - Mentoring
-  - Makers Mentor
-    - During my time at Makers Academy I mentored two students through the beginings of their coding journey. This was a great challenge for me, and an oppertunity to coach students through areas that I too had struggled with. It also shon a light on my own progress and how teaching others can help instill that knowledge in yourself. I have written a blog post about this experience, which is avaliable to read in my blogs repo.
-
+  - During my time at Makers Academy I mentored two students through the beginings of their coding journey. This was a great challenge for me, and an oppertunity to coach students through areas that I too had struggled with. It also shon a light on my own progress and how teaching others can help instill that knowledge in yourself. I have written a blog post about this experience, which is avaliable to read in my blogs repo.
 
 #### Another Skill
 
@@ -41,7 +39,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - RSpec, Jasmine, Unittest
 
 #### The Royal College of Art (2014 –– 2016)
-
 - MA Visual Communication (Distinction)
 
 #### Central St Martins (2010 –– 2013)
@@ -49,10 +46,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Central St Martins (2009 –– 2010)
 - Foundation Diploma (Merit)
-
-#### Other qualifications
-- 3 A-levels
-- 9 GCSEs
 
 ## Experience
 
