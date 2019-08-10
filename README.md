@@ -57,7 +57,7 @@ CoderDojo is a free, global and volunteer led initiative for young people to lea
 
 Housework(Press) was as a South East London based *Risograph* print press and publishing company dedicated to realising experimental and process-driven design and art.
 
-In 3 years of operation we had well over 200 jobs from clients such as *The Design Museum, The Serpentine, Studio Moross, The British Fashion Council, Architectural Association, Europa* and *The Royal College of Art.*
+In 3 years of operation Housework(Press) had well over 200 jobs from clients such as *The Design Museum, The Serpentine, Studio Moross, The British Fashion Council, Architectural Association, Europa* and *The Royal College of Art.*
 
 **<a href="http://www.joe-t.com" target="blank">Joseph Townshend Studio</a>** (2010 –– 2019)   
 *Founder*  
