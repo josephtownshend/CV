@@ -50,7 +50,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **<a href="https://coderdojo.com/" target="blank">CoderDojo</a>** (2019)    
 *Mentor*
 
-I have recently become a mentor at a local CoderDojo, which is a free, global and volunteer led programming club for young people. We use Blockly and Scratch, both of which are block-based visual programming languages, developed by Google and MIT respectively. It has been a great oppertunity to learn something new and try to teach that skill to students with little to no experience. 
+CoderDojo is a free, global and volunteer led initiative for young people to learn programming. We use Blockly and Scratch, both of which are block-based visual programming languages, developed by Google and MIT respectively. It has been a great oppertunity to learn something new and try to teach that skill to students with little to no experience. 
 
 **<a href="http://www.housework.press" target="blank">Housework(Press)</a>** (2016 –– 2019)    
 *Founder*
