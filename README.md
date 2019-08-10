@@ -43,7 +43,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - BA Design Interaction (First Class Honors)
 
 #### Central St Martins (2009 –– 2010)
-- Foundation Diploma (Merit)
+- Art & Design Foundation Diploma (Merit)
 
 ## Experience
 
