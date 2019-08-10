@@ -28,9 +28,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 * Projects
 
-* Curious Coder - **<a href="https://github.com/josephtownshend/Parrot" target="blank">Parrot</a>** - A tiny command line application complete with testing.
-* Fast Learner - **<a href="https://github.com/josephtownshend/FizzBuzz_In_Every_Language" target="blank">FizzBuzz Every Language</a>** - An exploration of languages and testing through the medium of FizzBuzz.
-* Team Player - **<a href="https://github.com/lucianmot/f.rest" target="blank">Forest Lang</a>** - Creating a programming language from scratch.
+- Curious Coder - **<a href="https://github.com/josephtownshend/Parrot" target="blank">Parrot</a>** 
+  - A tiny command line application complete with testing.
+- Fast Learner - **<a href="https://github.com/josephtownshend/FizzBuzz_In_Every_Language" target="blank">FizzBuzz Every Language</a>**
+  - An exploration of languages and testing through the medium of FizzBuzz.
+- Team Player - **<a href="https://github.com/lucianmot/f.rest" target="blank">Forest Lang</a>** 
+  - Creating a programming language from scratch.
 
 - TDD
 - Agile/XP
