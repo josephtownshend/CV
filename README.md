@@ -9,7 +9,7 @@ I am an early career full stack software developer and recent graduate of Makers
 |---|---|---|---|---|
 | **Forest**  | A team project to build and design a new programming language, whilst also learning a new programming language. | Python & Unittest  | <a href="https://github.com/lucianmot/f.rest">Repo</a>  | Comming Soon!  |
 | **Parrot**  | A curious self initiated project to build a teeny tiny command line application complete with testing. | Ruby, Shell & BATS | <a href="https://github.com/josephtownshend/Parrot">Repo</a>  | N/A  |
-| **FizzBuzz Everything**  | An ongoing exploration into language and TDD through the medium of FizzBuzz.  | Ruby & Rspec, Javascript & Jasmine, Python & Unittest, Java & Junit  | <a href="https://github.com/josephtownshend/FizzBuzz_In_Every_Language"Repo</a>  | N/A  |
+| **FizzBuzz Everything**  | An ongoing exploration into language and TDD through the medium of FizzBuzz.  | Ruby & Rspec, Javascript & Jasmine, Python & Unittest, Java & Junit  | <a href="https://github.com/josephtownshend/FizzBuzz_In_Every_Language">Repo</a>  | N/A  |
 
 ## Skills
 
