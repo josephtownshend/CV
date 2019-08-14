@@ -2,14 +2,14 @@
 
 I am an early career full stack software developer and recent graduate of Makers Academy in London. My background is in graphic design, print and the visual arts in which I studied for 6 years. I ran two successful design and print studios before finally deciding to take my love of learning into the world of tech, and I haven't looked back. I am a passionate creative problem solver and always on the look out for new processes to help build workarounds for troublesome situations.
 
-<a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Ruby-256%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/JavaScript-86%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Python-35%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/HTML-72%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/CSS-61%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Ruby-256%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/JavaScript-86%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Python-35%20commits-orange.svg" alt=""></a>
  
 
 | Project  | Description  | Technology  | Github  | Site  |
 |---|---|---|---|---|
-| **Forest**  | Creating a new programming language, whilst learning a new programming language.  | Python & Unittest  | <a href="https://github.com/lucianmot/f.rest">Forest</a>  | Comming Soon!  |
-| **Parrot**  | A teeny tiny command line application complete with testing.  | Ruby, Shell & BATS | <a href="https://github.com/josephtownshend/Parrot">Parrot</a>  | N/A  |
-| **FizzBuzz Everything**  | An ongoing exploration into language and TDD through the medium of FizzBuzz  | Ruby & Rspec, Javascript & Jasmine, Python & Unittest, Java & Junit  | <a href="https://github.com/josephtownshend/FizzBuzz_In_Every_Language">FizzBuzz Everything</a>  | N/A  |
+| **Forest**  | A team project to build and design a new programming language, whilst also learning a new programming language. | Python & Unittest  | <a href="https://github.com/lucianmot/f.rest">Repo</a>  | Comming Soon!  |
+| **Parrot**  | A curious self initiated project to build a teeny tiny command line application complete with testing. | Ruby, Shell & BATS | <a href="https://github.com/josephtownshend/Parrot">Repo</a>  | N/A  |
+| **FizzBuzz Everything**  | An ongoing exploration into language and TDD through the medium of FizzBuzz.  | Ruby & Rspec, Javascript & Jasmine, Python & Unittest, Java & Junit  | <a href="https://github.com/josephtownshend/FizzBuzz_In_Every_Language"Repo</a>  | N/A  |
 
 ## Skills
 
@@ -23,11 +23,7 @@ I am an early career full stack software developer and recent graduate of Makers
 ## Education
 
 #### Makers Academy (May 2019 –– August 2019)
-
-  - **Team Playing** 
-  - **Curious Coding**
-  - **Fast Learning** -
-
+- Graduate of the Makers Academy intensive Full-stack development bootcamp.
 
 #### The Royal College of Art (2014 –– 2016)
 - MA Visual Communication (Distinction)
