@@ -12,8 +12,9 @@ I am an early career full stack software developer and recent graduate of Makers
   - During my time at Makers Academy I mentored two students through the beginings of their coding journey. This was a great challenge for me, and an oppertunity to coach students through areas that I too had struggled with. It also shon a light on my own progress and how teaching others can help instill that knowledge in yourself.
   
 - Creative Problem Solving
-  - During my time running Housework(press) I operated a Riso MZ970 printer as our main means of production. The Riso is a large grey japanese printer that runs on outdated software, spare parts and constant maintenance. The machine is very idiosyncratic and subsequently requires the operator to sort of collaborate with it in order to attain the clients desired effects. Becuase of this I spent a great deal of time not only troubleshooting the printer itself but also creating solutions to realise complex artwork, this is something that I became very adept at and also thoroughly enjoyed. 
-
+  - During my time running <a href="https://www.instagram.com/houseworkpress/">Housework(Press)</a> I operated a Riso MZ970 printer as our main means of production. The Riso is a large grey japanese printer that runs on outdated software, spare parts and constant maintenance. The machine is very idiosyncratic so subsequently I spent a great deal of time not only troubleshooting the printer itself but creating solutions to realise complex artwork, this is something that I became very adept at and also thoroughly enjoyed. 
+ 
+ 
 #### Another Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
