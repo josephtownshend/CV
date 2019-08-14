@@ -31,7 +31,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 * Notable Projects
   - **Team Playing** - **<a href="https://github.com/lucianmot/f.rest">Forest</a>** - Creating a new programming language whilst learning a new programming language.
   - **Curious Coding** - **<a href="https://github.com/josephtownshend/Parrot">Parrot</a>** - A teeny tiny command line application complete with testing. 
-  - **Fast Learning** - **<a href="https://github.com/josephtownshend/FizzBuzz_In_Every_Language">FizzBuzz Every Language</a>** - Ongoing exploration into language & TDD through the medium of FizzBuzz.
+  - **Fast Learning** - **<a href="https://github.com/josephtownshend/FizzBuzz_In_Every_Language">FizzBuzz Everything</a>** - Ongoing exploration into language & TDD through the medium of FizzBuzz.
 
 
 #### The Royal College of Art (2014 –– 2016)
