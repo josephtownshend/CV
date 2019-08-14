@@ -2,14 +2,17 @@
 
 [Skills](#skills) –– [Education](#education) –– [Experience](#experience) –– [Interests](#interests) –– [Blog](https://github.com/josephtownshend/Blog)
 
-I am an early career full stack software developer currently studying at Makers Academy in London. My background is in graphic design, print and the visual arts in which I studied for 6 years. I ran two successful design and print studios before finally deciding to take my love of learning into the world of tech, I haven't looked back. I am a passionate creative problem solver and always on the look out for new processes to help build workarounds for troublesome situations.
+I am an early career full stack software developer and recent graduate of Makers Academy in London. My background is in graphic design, print and the visual arts in which I studied for 6 years. I ran two successful design and print studios before finally deciding to take my love of learning into the world of tech, and I haven't looked back. I am a passionate creative problem solver and always on the look out for new processes to help build workarounds for troublesome situations.
 
 ## Skills
 
 #### This Skill
 
 - Mentoring
-  - During my time at Makers Academy I mentored two students through the beginings of their coding journey. This was a great challenge for me, and an oppertunity to coach students through areas that I too had struggled with. It also shon a light on my own progress and how teaching others can help instill that knowledge in yourself. I have written a blog post about this experience, which is avaliable to read in my blogs repo.
+  - During my time at Makers Academy I mentored two students through the beginings of their coding journey. This was a great challenge for me, and an oppertunity to coach students through areas that I too had struggled with. It also shon a light on my own progress and how teaching others can help instill that knowledge in yourself.
+  
+- Creative Problem Solving
+  - During my time running Housework(press) I operated a Riso MZ970 printer as our main means of production. The Riso is a large grey japanese printer that runs on outdated software, spare parts and constant maintenance. The machine is very idiosyncratic and subsequently requires the operator to sort of collaborate with it in order to attain the clients desired effects. Becuase of this I spent a great deal of time not only troubleshooting the printer itself but also creating solutions to realise complex artwork, this is something that I became very adept at and also thoroughly enjoyed. 
 
 #### Another Skill
 
@@ -57,7 +60,7 @@ CoderDojo is a free, global and volunteer led initiative for young people to lea
 
 Housework(Press) was as a South East London based *Risograph* print press and publishing company dedicated to realising experimental and process-driven design and art.
 
-In 3 years of operation Housework(Press) had well over 200 jobs from clients such as *The Design Museum, The Serpentine, Studio Moross, The British Fashion Council, Architectural Association, Europa* and *The Royal College of Art.*
+In 3 years of operation Housework(Press) worked on well over 200 jobs from clients such as *The Design Museum, The Serpentine, Studio Moross, The British Fashion Council, Architectural Association, Europa* and *The Royal College of Art.*
 
 **<a href="http://www.joe-t.com" target="blank">Joseph Townshend Studio</a>** (2010 –– 2019)   
 *Founder*  
