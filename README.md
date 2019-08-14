@@ -1,10 +1,9 @@
 ## Joseph Townshend
 
-I am an early career full stack software developer and recent graduate of Makers Academy in London. My background is in graphic design, print and the visual arts in which I studied for 6 years. I ran two successful design and print studios before finally deciding to take my love of learning into the world of tech, and I haven't looked back. I am a passionate creative problem solver and always on the look out for new processes to help build workarounds for troublesome situations.
+I am an early career full stack software developer and recent graduate of Makers Academy in London. My background is in graphic design, print and the visual arts, which I studied for 6 years. I then ran two successful design and print studios before finally deciding to take my love of learning into the world of tech, and I haven't looked back. I am a passionate creative problem solver and always on the look out for new processes to help build workarounds for troublesome situations.
 
 <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Ruby-256%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/JavaScript-86%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Python-35%20commits-orange.svg" alt=""></a>
  
-
 | Project  | Description  | Technology  | Github  | Site  |
 |---|---|---|---|---|
 | **Forest**  | A team project to build and design a new programming language, whilst also learning a new programming language. | Python & Unittest  | <a href="https://github.com/lucianmot/f.rest">Repo</a>  | Comming Soon!  |
@@ -13,15 +12,14 @@ I am an early career full stack software developer and recent graduate of Makers
 
 ## Skills
 
+- A Genuine Thirst For Knowledge
+  - Since embarking on my coding journey I have discovered a real drive to understand the processes and technologies we use as part of our daily practice on a very deep level. Rather than grappling with the newest tech trends, I find myself much more drawn towards breaking down knowledge into its most rudimentary core components. I have found that in aquiring a deeper level of understanding I am able to much more readily impliment my learning into everyday tasks.
+
 - Mentoring
-  - During my time at Makers Academy I mentored two students through the beginings of their coding journey. This was a great challenge for me, and an oppertunity to coach students through areas that I too had struggled with. It also shon a light on my own progress and how teaching others can help instill that knowledge in yourself.
+  - During my time at Makers Academy I mentored two students through the initial stages of their coding journey. This was a great challenge for me, and an opportunity to coach students through areas that I too had struggled with. It also shon a light on my own progress and how teaching others can be a valuable way to deepen that knowledge and understanding.
   
 - Creative Problem Solving
-  - During my time running <a href="https://www.instagram.com/houseworkpress/">Housework(Press)</a> I operated a Riso MZ970 printer as our main means of production. The Riso is a large grey japanese printer that runs on outdated software, spare parts and constant maintenance. The machine is very idiosyncratic so subsequently I spent a great deal of time not only troubleshooting the printer itself but creating solutions to realise complex artwork, this is something that I became very adept at and also thoroughly enjoyed. 
- 
-- A Genuine Thirst For Knowledge
-  - Since embarking on my coding journey I have discovered a real drive to understand the processes and technologies we use as part of our daily practice on a very deep level. Rather than grappling with the newest tech trends, I find myself much more drawn towards breaking down knowledge into it's most rudimentary core components. I have found that in aquiring a deeper level understanding I am able to much more readily impliment my learning into everyday tasks.
-
+  - During my time running <a href="https://www.instagram.com/houseworkpress/">Housework(Press)</a> I operated a Riso MZ970 printer as our main means of production. The Riso is a large grey japanese printer that runs on outdated software, spare parts and constant maintenance. The machine is very idiosyncratic so subsequently I spent a great deal of time not only troubleshooting the printer itself alongside creating solutions to realise complex artwork, this is something that I became adept at and also thoroughly enjoyed. 
 
 ## Education
 
