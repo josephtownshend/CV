@@ -24,7 +24,7 @@ I am an early career full stack software developer and recent graduate of Makers
 ## Education
 
 #### Makers Academy (May 2019 –– August 2019)
-- Graduate of the Makers Academy intensive Full-stack development bootcamp.
+- Graduate of Makers Academy intensive Full-stack development bootcamp.
 
 #### The Royal College of Art (2014 –– 2016)
 - MA Visual Communication (Distinction)
