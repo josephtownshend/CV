@@ -1,6 +1,8 @@
 ## Joseph Townshend
 
 I am an early career full stack software developer and recent graduate of Makers Academy in London. My background is in graphic design, print and the visual arts in which I studied for 6 years. I ran two successful design and print studios before finally deciding to take my love of learning into the world of tech, and I haven't looked back. I am a passionate creative problem solver and always on the look out for new processes to help build workarounds for troublesome situations.
+
+<a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Ruby-256%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/JavaScript-86%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Python-35%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/HTML-72%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/CSS-61%20commits-orange.svg" alt=""></a>
  
 
 | Project  | Description  | Technology  | Github  | Site  |
