@@ -32,13 +32,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
   - **Team Playing** - **<a href="https://github.com/lucianmot/f.rest">Forest</a>** - Creating a new programming language whilst learning a new programming language.
   - **Curious Coding** - **<a href="https://github.com/josephtownshend/Parrot">Parrot</a>** - A teeny tiny command line application complete with testing. 
   - **Fast Learning** - **<a href="https://github.com/josephtownshend/FizzBuzz_In_Every_Language">FizzBuzz Every Language</a>** - Exploring Language & TDD through the medium of FizzBuzz.
-
-* Skills
-
-- TDD
-- Agile/XP
-- Ruby, JavaScript, Python
-- RSpec, Jasmine, Unittest
+  - **Persistent Programmer** - **<a href="https://github.com/josephtownshend/Bank">Bank Tech Test</a>** - Try, try, try again.
 
 #### The Royal College of Art (2014 –– 2016)
 - MA Visual Communication (Distinction)
