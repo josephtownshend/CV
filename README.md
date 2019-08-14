@@ -29,8 +29,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Makers Academy (May 2019 –– August 2019)
 
 * Notable Projects
-  - **Team Playing** - **<a href="https://github.com/lucianmot/f.rest">Forest</a>** - A programming language from scratch.
-  - **Curious Coding** - **<a href="https://github.com/josephtownshend/Parrot">Parrot</a>** - A tiny command line application complete with testing. 
+  - **Team Playing** - **<a href="https://github.com/lucianmot/f.rest">Forest</a>** - Creating a new programming language whilst learning a new programming language.
+  - **Curious Coding** - **<a href="https://github.com/josephtownshend/Parrot">Parrot</a>** - A teeny tiny command line application complete with testing. 
   - **Fast Learning** - **<a href="https://github.com/josephtownshend/FizzBuzz_In_Every_Language">FizzBuzz Every Language</a>** - Exploring Language & TDD through the medium of FizzBuzz.
 
 * Skills
