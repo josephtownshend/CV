@@ -18,6 +18,9 @@ I am an early career full stack software developer and recent graduate of Makers
   
 - Creative Problem Solving
   - During my time running <a href="https://www.instagram.com/houseworkpress/">Housework(Press)</a> I operated a Riso MZ970 printer as our main means of production. The Riso is a large grey japanese printer that runs on outdated software, spare parts and constant maintenance. The machine is very idiosyncratic so subsequently I spent a great deal of time not only troubleshooting the printer itself but creating solutions to realise complex artwork, this is something that I became very adept at and also thoroughly enjoyed. 
+ 
+- A Genuine Thirst For Knowledge
+  - Since embarking on my coding journey I have discovered a real drive to understand the processes and technologies we use as part of our daily practice on a very deep level. Rather than grappling with the newest tech trends, I find myself much more drawn towards breaking down knowledge into it's most rudimentary core components. I have found that in aquiring a deeper level understanding I am able to much more readily impliment my learning into everyday tasks.
 
 
 ## Education
@@ -44,9 +47,7 @@ CoderDojo is a free, global and volunteer led initiative for young people to lea
 **<a href="http://www.housework.press" target="blank">Housework(Press)</a>** (2016 –– 2019)    
 *Founder*
 
-Housework(Press) was as a South East London based *Risograph* print press and publishing company dedicated to realising experimental and process-driven design and art.
-
-In 3 years of operation Housework(Press) worked on well over 200 jobs from clients such as *The Design Museum, The Serpentine, Studio Moross, The British Fashion Council, Architectural Association, Europa* and *The Royal College of Art.*
+Housework(Press) was as a South East London based *Risograph* print press and publishing company dedicated to realising experimental and process-driven design and art. Over 3 years of operation, Housework(Press) worked on more than 200 jobs from clients such as *The Design Museum, The Serpentine, Studio Moross, The British Fashion Council, Architectural Association* and *The Royal College of Art.*
 
 **<a href="http://www.joe-t.com" target="blank">Joseph Townshend Studio</a>** (2010 –– 2019)   
 *Founder*  
