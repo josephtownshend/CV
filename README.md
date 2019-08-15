@@ -16,7 +16,7 @@ I am an early career full stack software developer and recent graduate of Makers
 - A Genuine Thirst For Knowledge
   - Since embarking on my coding journey I have discovered a real drive to understand the processes and technologies we use as part of our daily practice on a very deep level. Rather than grappling with the newest tech trends, I find myself much more drawn towards breaking down knowledge into its most rudimentary core components. I have found that in acquiring a deeper level of understanding I am able to much more readily implement my learning into everyday tasks.
 
-- Mentoring
+- Mentoring & Skill Sharing
   - During my time at Makers Academy I mentored two students through the initial stages of their coding journey. This was a great challenge for me, and an opportunity to coach students through areas that I too had struggled with. It also shone a light on my own progress and how teaching others can be a valuable way to deepen that knowledge and understanding.
   
 - Creative Problem Solving
