@@ -13,13 +13,13 @@ I am an early career full stack software developer and recent graduate of Makers
 ## Skills
 
 - A Genuine Thirst For Knowledge
-  - Since embarking on my coding journey I have discovered a real drive to understand the processes and technologies we use as part of our daily practice on a very deep level. Rather than grappling with the newest tech trends, I find myself much more drawn towards breaking down knowledge into its most rudimentary core components. I have found that in aquiring a deeper level of understanding I am able to much more readily impliment my learning into everyday tasks.
+  - Since embarking on my coding journey I have discovered a real drive to understand the processes and technologies we use as part of our daily practice on a very deep level. Rather than grappling with the newest tech trends, I find myself much more drawn towards breaking down knowledge into its most rudimentary core components. I have found that in acquiring a deeper level of understanding I am able to much more readily implement my learning into everyday tasks.
 
 - Mentoring
-  - During my time at Makers Academy I mentored two students through the initial stages of their coding journey. This was a great challenge for me, and an opportunity to coach students through areas that I too had struggled with. It also shon a light on my own progress and how teaching others can be a valuable way to deepen that knowledge and understanding.
+  - During my time at Makers Academy I mentored two students through the initial stages of their coding journey. This was a great challenge for me, and an opportunity to coach students through areas that I too had struggled with. It also shone a light on my own progress and how teaching others can be a valuable way to deepen that knowledge and understanding.
   
 - Creative Problem Solving
-  - During my time running <a href="https://www.instagram.com/houseworkpress/">Housework(Press)</a> I operated a Riso MZ970 printer as our main means of production. The Riso is a large grey japanese printer that runs on outdated software, spare parts and constant maintenance. The machine is very idiosyncratic so subsequently I spent a great deal of time not only troubleshooting the printer itself alongside creating solutions to realise complex artwork, this is something that I became adept at and also thoroughly enjoyed. 
+  - During my time running <a href="https://www.instagram.com/houseworkpress/">Housework(Press)</a> I operated a Riso MZ970 printer as our main means of production. The Riso is a large grey Japanese printer that runs on outdated software, spare parts and constant maintenance. The machine is very idiosyncratic so subsequently I spent a great deal of time not only troubleshooting the printer itself alongside creating solutions to realise complex artwork, this is something that I became adept at and also thoroughly enjoyed. 
 
 ## Education
 
@@ -30,7 +30,7 @@ I am an early career full stack software developer and recent graduate of Makers
 - MA Visual Communication (Distinction)
 
 #### Central St Martins (2010 –– 2013)
-- BA Design Interaction (First Class Honors)
+- BA Design Interaction (First Class Honours)
 
 #### Central St Martins (2009 –– 2010)
 - Art & Design Foundation Diploma (Merit)
@@ -40,7 +40,7 @@ I am an early career full stack software developer and recent graduate of Makers
 **<a href="https://coderdojo.com/" target="blank">CoderDojo</a>** (2019)    
 *Mentor*
 
-CoderDojo is a free, global and volunteer led initiative for young people to learn programming. We use Blockly and Scratch, both of which are block-based visual programming languages, developed by Google and MIT respectively. It has been a great oppertunity to learn something new and try to teach that skill to students with little to no experience. 
+CoderDojo is a free, global and volunteer led initiative for young people to learn programming. We use Blockly and Scratch, both of which are block-based visual programming languages, developed by Google and MIT respectively. It has been a great opportunity to learn something new and try to teach that skill to students with little to no experience. 
 
 **<a href="http://www.housework.press" target="blank">Housework(Press)</a>** (2016 –– 2019)    
 *Founder*
@@ -50,12 +50,12 @@ Housework(Press) was as a South East London based *Risograph* print press and pu
 **<a href="http://www.joe-t.com" target="blank">Joseph Townshend Studio</a>** (2010 –– 2019)   
 *Founder*  
 
-Since embarking on my graphic design eductaion I have continuously worked as a freelance and selfemployed graphic designer. I have a key interest in print design and in combination with my experience at Housework(Press) I have since become well known for my playful, vibrant Risograph poster work and book design. Recent clients include *Black Tower Projects, Kestle Barton Gallery,* and *Newlyn Art Gallery*
+Since embarking on my graphic design education I have continuously worked as a freelance and self-employed graphic designer. I have a key interest in print design and in combination with my experience at Housework(Press) I have since become well known for my playful, vibrant Risograph poster work and book design. Recent clients include *Black Tower Projects, Kestle Barton Gallery,* and *Newlyn Art Gallery*
 
 **<a href="http://www.jotta.com" target="blank">Jotta</a>** (2013 –– 2014)\
 *Freelance Graphic Designer & Creative*
 
-During my time at Jotta I worked on multiple projects for clients including *Heiniken, Samsung, Intel* and *Pernod Ricard*. I worked predominantly as a creative, which included roles such as set design and build as well as curating events and installations. Along side my creative work I also produced the in-house graphic design throughout that period. 
+During my time at Jotta I worked on multiple projects for clients including *Heineken, Samsung, Intel* and *Pernod Ricard*. I worked predominantly as a creative, which included roles such as set design and build as well as curating events and installations. Along side my creative work I also produced the in-house graphic design throughout that period. 
 
 **<a href="http://www.southkiosk.com" target="blank">South Kiosk</a>** (2013 –– 2014)\
 *Freelance Graphic Designer*
@@ -65,6 +65,6 @@ During my time at South Kiosk my role was as graphic designer, I worked on in-ho
 ## Interests
 
 * Motivated climber and active member of Makers Climbing.
-* Spending time outdooors (ideally up a mountain).
-* Vegan coooking - a quest to find great meat alternatives.
-* Trying to write blog posts. 
+* Spending time outdoors (ideally up a mountain).
+* Vegan cooking, and a quest to find great meat alternatives.
+* Trying to write blog posts.
