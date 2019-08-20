@@ -77,3 +77,9 @@ During my time at South Kiosk my role was as graphic designer, I worked on in-ho
 * Spending time outdoors (ideally up a mountain).
 * Vegan cooking, and a quest to find great meat alternatives.
 * Trying to write blog posts.
+
+## Contact Info
+
+* joetownshend@mac.com
+* +44(0)7525252931
+* www.linkedin.com/in/joseph-townshend
