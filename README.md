@@ -28,7 +28,7 @@ Processes: Pair Programming, Agile Methodology, Test Driven Development, Behavio
   - During my time at Makers Academy I mentored two students through the initial stages of their coding journey. This was a great challenge for me, and an opportunity to coach students through areas that I too had struggled with. It also shone a light on my own progress and how teaching others can be a valuable way to deepen that knowledge and understanding.
   
 - Creative Problem Solving
-  - During my time running <a href="https://www.instagram.com/houseworkpress/">Housework(Press)</a> I operated a Riso MZ970 printer as our main means of production. The Riso is a large grey Japanese printer that runs on outdated software, spare parts and constant maintenance. The machine is very idiosyncratic so subsequently I spent a great deal of time not only troubleshooting the printer itself alongside creating solutions to realise complex artwork, this is something that I became adept at and also thoroughly enjoyed. 
+  - During my time running <a href="https://www.instagram.com/houseworkpress/">Housework(Press)</a> I operated a Riso MZ970 printer as our main means of production. The Riso is a large grey Japanese printer that runs on outdated software, spare parts and constant maintenance. The machine is very idiosyncratic so subsequently I spent a great deal of time not only troubleshooting the printer itself but also creating solutions to realise complex artwork, this is something that I became adept at and also thoroughly enjoyed.
 
 ## Education
 
