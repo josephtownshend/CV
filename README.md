@@ -2,11 +2,19 @@
 
 I am an early career full stack software developer and recent graduate of Makers Academy in London. My background is in graphic design, print and the visual arts, which I studied for 6 years. I then ran two successful design and print studios before finally deciding to take my love of learning into the world of tech, and I haven't looked back. I am a passionate creative problem solver and always on the look out for new processes to help build workarounds for troublesome situations.
 
+## Technologies & Processes
+
 <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Ruby-256%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/JavaScript-86%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Python-35%20commits-orange.svg" alt=""></a>
+
+Testing Frameworks: Jasmine, Rspec, Unittest.
+
+Processes: Pair Programming, Agile Methodology, Test Driven Development, Behaviour Driven Development, XP Values.
+
+## Recent Notable Projects
  
 | Project  | Description  | Technology  | Github  | Site  |
 |---|---|---|---|---|
-| **Forest**  | A team project to build and design a new programming language, whilst also learning a new programming language. | Python & Unittest  | <a href="https://github.com/lucianmot/f.rest">Repo</a>  | Coming Soon  |
+| **Forest**  | A team project to build and design a new programming language, whilst also learning a new programming language. | Python & Unittest  | <a href="https://github.com/lucianmot/f.rest">Repo</a>  | N/A  |
 | **Parrot**  | A curious self initiated project to build a teeny tiny command line application complete with testing. | Ruby, Shell & BATS | <a href="https://github.com/josephtownshend/Parrot">Repo</a>  | N/A  |
 | **Bank Tech Test**  | A technical test to build a command line banking app.  | Ruby & Rspec | <a href="https://github.com/josephtownshend/Bank">Repo</a>  | N/A  |
 | **FizzBuzz Everything**  | An ongoing exploration into language and TDD through the medium of FizzBuzz.  | Ruby & Rspec, Javascript & Jasmine, Python & Unittest, Java & Junit  | <a href="https://github.com/josephtownshend/FizzBuzz_In_Every_Language">Repo</a>  | N/A  |
@@ -65,7 +73,7 @@ During my time at South Kiosk my role was as graphic designer, I worked on in-ho
 
 ## Interests
 
-* Motivated climber and active member of Makers Climbing.
+* Motivated climber and active member of Makers Climbing & Tech Climbing London.
 * Spending time outdoors (ideally up a mountain).
 * Vegan cooking, and a quest to find great meat alternatives.
 * Trying to write blog posts.
