@@ -12,12 +12,12 @@ Processes: Pair Programming, Agile Methodology, Test Driven Development, Behavio
 
 ## Recent Notable Projects
  
-| Project  | Description  | Technology  | Github  | Site  |
-|---|---|---|---|---|
-| **Forest**  | A team project to build and design a new programming language, whilst also learning a new programming language. | Python & Unittest  | <a href="https://github.com/lucianmot/f.rest">Repo</a>  | N/A  |
-| **Parrot**  | A curious self initiated project to build a teeny tiny command line application complete with testing. | Ruby, Shell & BATS | <a href="https://github.com/josephtownshend/Parrot">Repo</a>  | N/A  |
-| **Bank Tech Test**  | A technical test to build a command line banking app.  | Ruby & RSpec | <a href="https://github.com/josephtownshend/Bank">Repo</a>  | N/A  |
-| **FizzBuzz Everything**  | An ongoing exploration into language and TDD through the medium of FizzBuzz.  | Ruby & RSpec, Javascript & Jasmine, Python & Unittest, Java & Junit  | <a href="https://github.com/josephtownshend/FizzBuzz_In_Every_Language">Repo</a>  | N/A  |
+| Project  | Description  | Technology  |
+|---|---|---|
+| [**Forest**](https://github.com/lucianmot/f.rest)  | A team project to build and design a new programming language, whilst also learning a new programming language. | Python & Unittest  |
+| [**Parrot**](https://github.com/josephtownshend/Parrot)  | A curious self initiated project to build a teeny tiny command line application complete with testing. | Ruby, Shell & BATS |
+| [**Bank Tech Test**](https://github.com/josephtownshend/Bank)  | A technical test to build a command line banking app.  | Ruby & RSpec |
+| [**FizzBuzz Everything**](https://github.com/josephtownshend/FizzBuzz_In_Every_Language)  | An ongoing exploration into language and TDD through the medium of FizzBuzz.  | Ruby & RSpec, Javascript & Jasmine, Python & Unittest, Java & Junit  |
 
 ## Skills
 
