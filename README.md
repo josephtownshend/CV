@@ -14,10 +14,10 @@ Processes: Pair Programming, Agile Methodology, Test Driven Development, Behavio
  
 | Project  | Description  | Technology  |
 |---|---|---|
-| [**Forest**](https://github.com/lucianmot/f.rest)  | A team project to build and design a new programming language, whilst also learning a new programming language. | Python & Unittest  |
-| [**Parrot**](https://github.com/josephtownshend/Parrot)  | A curious self initiated project to build a teeny tiny command line application complete with testing. | Ruby, Shell & BATS |
-| [**Bank Tech Test**](https://github.com/josephtownshend/Bank)  | A technical test to build a command line banking app.  | Ruby & RSpec |
-| [**FizzBuzz Everything**](https://github.com/josephtownshend/FizzBuzz_In_Every_Language)  | An ongoing exploration into language and TDD through the medium of FizzBuzz.  | Ruby & RSpec, Javascript & Jasmine, Python & Unittest, Java & Junit  |
+| [**Forest**](https://github.com/lucianmot/f.rest) | A team project to build and design a new programming language, whilst also learning a new programming language. | Python & Unittest  |
+| [**Parrot**](https://github.com/josephtownshend/Parrot) | A curious self initiated project to build a teeny tiny command line application complete with testing. | Ruby, Shell & BATS |
+| [**Bank Tech Test**](https://github.com/josephtownshend/Bank) | A technical test to build a command line banking app.  | Ruby & RSpec |
+| [**FizzBuzz Everything**](https://github.com/josephtownshend/FizzBuzz_In_Every_Language) | An ongoing exploration into language and TDD through the medium of FizzBuzz.  | Ruby & RSpec, Javascript & Jasmine, Python & Unittest, Java & Junit  |
 
 ## Skills
 
