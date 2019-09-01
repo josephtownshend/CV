@@ -4,7 +4,7 @@ I am an early career full stack software developer and recent graduate of Makers
 
 ## Technologies & Processes
 
-<a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Ruby-256%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/JavaScript-86%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Python-35%20commits-orange.svg" alt=""> </a><a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Java-13%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Ruby-317%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/JavaScript-86%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Python-35%20commits-orange.svg" alt=""> </a><a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Java-13%20commits-orange.svg" alt=""></a>
 
 Testing Frameworks: Jasmine, RSpec, Unittest.
 
