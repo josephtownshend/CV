@@ -87,20 +87,17 @@
 
 **<p align="center">Skills</p>**
 
-<p align="center">*A Genuine Thirst For Knowledge*<br>Since embarking on my coding journey I have discovered a real drive to understand the processes and technologies we use as part of our daily practice on a very deep level. Rather than grappling with the newest tech trends, I find myself much more drawn towards breaking down knowledge into its most rudimentary core components. I have found that in acquiring a deeper level of understanding I am able to much more readily implement my learning into everyday tasks.</p>
+*<p align="center">A Genuine Thirst For Knowledge*<br>Since embarking on my coding journey I have discovered a real drive to understand the processes and technologies we use as part of our daily practice on a very deep level. Rather than grappling with the newest tech trends, I find myself much more drawn towards breaking down knowledge into its most rudimentary core components. I have found that in acquiring a deeper level of understanding I am able to much more readily implement my learning into everyday tasks.</p>
 
-<p align="center">*Mentoring & Skill Sharing*<br>During my time at Makers Academy I mentored two students through the initial stages of their coding journey. This was a great challenge for me, and an opportunity to coach students through areas that I too had struggled with. It also shone a light on my own progress and how teaching others can be a valuable way to deepen that knowledge and understanding. I wrote a blog about this experience, [it's avaliable to read here](https://medium.com/@joetownshend1/learning-through-the-lens-of-mentorship-631b2b834df0).</p>
+*<p align="center">Mentoring & Skill Sharing*<br>During my time at Makers Academy I mentored two students through the initial stages of their coding journey. This was a great challenge for me, and an opportunity to coach students through areas that I too had struggled with. It also shone a light on my own progress and how teaching others can be a valuable way to deepen that knowledge and understanding. I wrote a blog about this experience, [it's avaliable to read here](https://medium.com/@joetownshend1/learning-through-the-lens-of-mentorship-631b2b834df0).</p>
 
   
-<p align="center">*Creative Problem Solving*<br>During my time running <a href="https://www.instagram.com/houseworkpress/">Housework(Press)</a> I operated a Riso MZ970 printer as our main means of production. The Riso is a large grey Japanese printer that runs on outdated software, spare parts and constant maintenance. The machine is very idiosyncratic so subsequently I spent a great deal of time not only troubleshooting the printer itself but also creating solutions to realise complex artwork, this is something that I became adept at and also thoroughly enjoyed.</p>
+*<p align="center">Creative Problem Solving*<br>During my time running <a href="https://www.instagram.com/houseworkpress/">Housework(Press)</a> I operated a Riso MZ970 printer as our main means of production. The Riso is a large grey Japanese printer that runs on outdated software, spare parts and constant maintenance. The machine is very idiosyncratic so subsequently I spent a great deal of time not only troubleshooting the printer itself but also creating solutions to realise complex artwork, this is something that I became adept at and also thoroughly enjoyed.</p>
 
 
-## Interests
+**<p align="center">Interests</p>**
 
-* Motivated climber and active member of Makers Climbing & Tech Climbing London.
-* Spending time outdoors (ideally up a mountain).
-* Vegan cooking, and a quest to find great meat alternatives.
-* Trying to write [blog posts](https://github.com/josephtownshend/Blog).
+<p align="center">• Motivated climber and active member of Makers Climbing & Tech Climbing London.<br>• Spending time outdoors (ideally up a mountain).<br>• Vegan cooking, and a quest to find great meat alternatives.<br>Trying to write [blog posts](https://github.com/josephtownshend/Blog).</p>
 
 **<p align="center">Contact Info</p>**
 
