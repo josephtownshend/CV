@@ -57,8 +57,8 @@ Art & Design Foundation Diploma (Merit)
 
 * Completed over 250 projects.
 * Mentored 3 interns.
-* Held workshops & taught at the Royal College Of Art.
-* Worked with clients such as The Design Museum, The Serpentine, The British Fashion Council & Architectural Association.
+* Taught workshops at the Royal College Of Art.
+* Held clients such as The Design Museum, The Serpentine, The British Fashion Council & Architectural Association.
 
 **<a href="http://www.joe-t.com" target="blank">Joseph Townshend Studio</a>** (2010 –– 2019)   
 *Founder*  
