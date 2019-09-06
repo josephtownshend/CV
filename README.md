@@ -9,15 +9,15 @@
 
 <p align="center">I am an early career full stack software developer and recent graduate of Makers Academy in London. My background is in graphic design, print and the visual arts, which I studied for 6 years. I then ran two successful design and print studios before finally deciding to take my love of learning into the world of tech, and I haven't looked back. I am a passionate creative problem solver and always on the look out for new processes to help build workarounds for troublesome situations.</p>
 
-## Technologies & Processes
+**<p align="center">Technologies & Processes</p>**
 
-<a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Ruby-328%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/JavaScript-102%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Python-70%20commits-orange.svg" alt=""> </a><a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Java-47%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Elixir-62%20commits-orange.svg" alt=""></a>
+<p align="center"> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Ruby-328%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/JavaScript-102%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Python-70%20commits-orange.svg" alt=""> </a><a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Java-47%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Elixir-62%20commits-orange.svg" alt=""></a></p>
 
-Testing Frameworks: Jasmine, RSpec, Unittest.
+<p align="center">Testing Frameworks: Jasmine, RSpec, Unittest.</p>
 
-Processes: Pair Programming, Agile Methodology, Test Driven Development, Behaviour Driven Development, XP Values.
+<p align="center">Pair Programming, Agile Methodology, Test Driven Development, Behaviour Driven Development, XP Value.</p>
 
-## Recent Notable Projects
+**<p align="center">Recent Notable Projects</p>**
  
 | Project  | Description  | Technology  |
 |---|---|---|
