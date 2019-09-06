@@ -37,6 +37,8 @@ Graduate of Makers Academy intensive full-stack bootcamp.
 
 **<a href="https://www.rca.ac.uk/" target="blank">The Royal College of Art</a>** (2014 –– 2016)\
 MA Visual Communication (Distinction)
+  - Lectured as part of *Reseach, Design, Publish* Symposium
+  - Shortlisted for the Varley prize
 
 **<a href="https://www.arts.ac.uk/colleges/central-saint-martins" target="blank">Central St Martins</a>** (2010 –– 2013)\
 BA Design Interaction (First Class Honours)
