@@ -19,16 +19,10 @@ Processes: Pair Programming, Agile Methodology, Test Driven Development, Behavio
 | [**Bank Tech Test**](https://github.com/josephtownshend/Bank) | A technical test to build a command line banking app.  | Ruby & RSpec |
 | [**FizzBuzz Everything**](https://github.com/josephtownshend/FizzBuzz_In_Every_Language) | An ongoing exploration into language and TDD through the medium of FizzBuzz.  | Ruby & RSpec, Javascript & Jasmine, Python & Unittest, Java & Junit, Scala & ScalaTest + FunSuite, Elixir & ExUnit + mix, Clojure & clojure.test, Rust, GoLang |
 
-## Skills
-
-- A Genuine Thirst For Knowledge
-  - Since embarking on my coding journey I have discovered a real drive to understand the processes and technologies we use as part of our daily practice on a very deep level. Rather than grappling with the newest tech trends, I find myself much more drawn towards breaking down knowledge into its most rudimentary core components. I have found that in acquiring a deeper level of understanding I am able to much more readily implement my learning into everyday tasks.
-
-- Mentoring & Skill Sharing
-  - During my time at Makers Academy I mentored two students through the initial stages of their coding journey. This was a great challenge for me, and an opportunity to coach students through areas that I too had struggled with. It also shone a light on my own progress and how teaching others can be a valuable way to deepen that knowledge and understanding. I wrote a blog about this experience, [it's avaliable to read here](https://medium.com/@joetownshend1/learning-through-the-lens-of-mentorship-631b2b834df0).
-  
-- Creative Problem Solving
-  - During my time running <a href="https://www.instagram.com/houseworkpress/">Housework(Press)</a> I operated a Riso MZ970 printer as our main means of production. The Riso is a large grey Japanese printer that runs on outdated software, spare parts and constant maintenance. The machine is very idiosyncratic so subsequently I spent a great deal of time not only troubleshooting the printer itself but also creating solutions to realise complex artwork, this is something that I became adept at and also thoroughly enjoyed.
+## What I'm learning now
+- I am spending time working with Elixir, Phoenix & GraphQL
+- Researching and implementing design patterns
+- Learning about language paradigms
 
 ## Education
 
@@ -70,6 +64,17 @@ During my time at Jotta I worked on multiple projects for clients including *Hei
 *Freelance Graphic Designer*
 
 During my time at South Kiosk my role was as graphic designer, I worked on in-house print ephemera as well as digital marketing and assets. I worked on the visual identity for Vestige, an exhibition of nostalgic tech held at the Design Museum, London.
+
+## Skills
+
+- A Genuine Thirst For Knowledge
+  - Since embarking on my coding journey I have discovered a real drive to understand the processes and technologies we use as part of our daily practice on a very deep level. Rather than grappling with the newest tech trends, I find myself much more drawn towards breaking down knowledge into its most rudimentary core components. I have found that in acquiring a deeper level of understanding I am able to much more readily implement my learning into everyday tasks.
+
+- Mentoring & Skill Sharing
+  - During my time at Makers Academy I mentored two students through the initial stages of their coding journey. This was a great challenge for me, and an opportunity to coach students through areas that I too had struggled with. It also shone a light on my own progress and how teaching others can be a valuable way to deepen that knowledge and understanding. I wrote a blog about this experience, [it's avaliable to read here](https://medium.com/@joetownshend1/learning-through-the-lens-of-mentorship-631b2b834df0).
+  
+- Creative Problem Solving
+  - During my time running <a href="https://www.instagram.com/houseworkpress/">Housework(Press)</a> I operated a Riso MZ970 printer as our main means of production. The Riso is a large grey Japanese printer that runs on outdated software, spare parts and constant maintenance. The machine is very idiosyncratic so subsequently I spent a great deal of time not only troubleshooting the printer itself but also creating solutions to realise complex artwork, this is something that I became adept at and also thoroughly enjoyed.
 
 ## Interests
 
