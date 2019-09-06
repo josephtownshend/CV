@@ -4,7 +4,7 @@
     __  / / __ \/ ___/ _ \/ __ \/ __ \     / / / __ \ | /| / / __ \/ ___/ __ \/ _ \/ __ \/ __  / 
    / /_/ / /_/ (__  )  __/ /_/ / / / /    / / / /_/ / |/ |/ / / / (__  ) / / /  __/ / / / /_/ /  
    \____/\____/____/\___/ .___/_/ /_/    /_/  \____/|__/|__/_/ /_/____/_/ /_/\___/_/ /_/\__,_/   
-                    /_/                                                                                         
+                       /_/                                                                                         
 ```
 
 <p align="center">I am an early career full stack software developer and recent graduate of Makers Academy in London. My background is in graphic design, print and the visual arts, which I studied for 6 years. I then ran two successful design and print studios before finally deciding to take my love of learning into the world of tech, and I haven't looked back. I am a passionate creative problem solver and always on the look out for new processes to help build workarounds for troublesome situations.</p>
