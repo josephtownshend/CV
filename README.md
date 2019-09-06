@@ -111,4 +111,4 @@ Art & Design Foundation Diploma (**Merit**)
 
 **<p align="center">Contact Info</p>**
 
-<p align="center"> joetownshend@mac.com –– +44(0)7525252931 –– [**LinkedIn**](https://www.linkedin.com/in/joseph-townshend-934570182/)</p>
+<p align="center"> joetownshend@mac.com –– +44(0)7525252931 –– <a href="https://www.linkedin.com/in/joseph-townshend-934570182/" target="blank">LinkedIn</a></p>
