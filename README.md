@@ -35,7 +35,7 @@
 
 **<p align="center">Education</p>**
 
-**<p align="center"><a href="https://www.makers.tech/" target="blank">Makers Academy</a> <br>May 2019 –– August 2019</p>**
+**<p align="center"><a href="https://www.makers.tech/" target="blank">Makers Academy</a>**<br>May 2019 –– August 2019</p>
 
 <p align="center">• Worked on 30+ projects ranging from a notes app to a Facebook clone <br> 
           • Designed and built a programming language in 2 weeks <br> 
@@ -47,16 +47,15 @@
 
 
 
-**<a href="https://www.rca.ac.uk/" target="blank">The Royal College of Art</a>**, 2014 –– 2016\
-MA Visual Communication (**Distinction**)
-  - Lectured as part of *Reseach, Design, Publish* Symposium
-  - Shortlisted for the Varley prize
+**<p align="center"><a href="https://www.rca.ac.uk/" target="blank">The Royal College of Art</a>**<br>MA Visual Communication (**Distinction**), 2014 –– 2016</p>
+  <p align="center">• Lectured as part of 'Reseach, Design, Publish' Symposium<br>
+  • Shortlisted for the Varley prize</p>
 
-**<a href="https://www.arts.ac.uk/colleges/central-saint-martins" target="blank">Central St Martins</a>**, 2010 –– 2013\
-BA Design Interaction (**First Class Honours**)
+**<p align="center"><a href="https://www.arts.ac.uk/colleges/central-saint-martins" target="blank">Central St Martins</a>**<br>BA Design Interaction (**First Class Honours**), 2010 –– 2013</p>
 
-**<a href="https://www.arts.ac.uk/colleges/central-saint-martins" target="blank">Central St Martins</a>**, 2009 –– 2010\
-Art & Design Foundation Diploma (**Merit**)
+
+**<p align="center"><a href="https://www.arts.ac.uk/colleges/central-saint-martins" target="blank">Central St Martins</a><br>Art & Design Foundation Diploma (**Merit**)**, 2009 –– 2010</p>
+
 
 ## Experience
 
