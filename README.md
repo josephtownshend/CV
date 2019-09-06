@@ -97,7 +97,7 @@
 
 **<p align="center">Interests</p>**
 
-<p align="center">• Motivated climber and active member of Makers Climbing & Tech Climbing London.<br>• Spending time outdoors (ideally up a mountain).<br>• Vegan cooking, and a quest to find great meat alternatives.<br>Trying to write [blog posts](https://github.com/josephtownshend/Blog).</p>
+<p align="center">• Motivated climber and active member of Makers Climbing & Tech Climbing London.<br>• Spending time outdoors (ideally up a mountain).<br>• Vegan cooking, and a quest to find great meat alternatives.<br>Trying to write <a href="https://medium.com/@joetownshend1" target="blank">blog posts!</a></p>
 
 **<p align="center">Contact Info</p>**
 
