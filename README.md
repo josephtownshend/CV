@@ -56,12 +56,12 @@ Housework(Press) was as a South East London based *Risograph* print press and pu
 Since embarking on my graphic design education I have continuously worked as a freelance and self-employed graphic designer. I have a key interest in print design and in combination with my experience at Housework(Press) I have since become well known for my playful, vibrant Risograph poster work and book design. Recent clients include *Black Tower Projects, Kestle Barton Gallery,* and *Newlyn Art Gallery*
 
 **<a href="http://www.jotta.com" target="blank">Jotta</a>** (2013 –– 2014)\
-*Freelance Graphic Designer & Creative*
+*Graphic Designer & Creative*
 
 During my time at Jotta I worked on multiple projects for clients including *Heineken, Samsung, Intel* and *Pernod Ricard*. I worked predominantly as a creative, which included roles such as set design and build as well as curating events and installations. Along side my creative work I also produced the in-house graphic design throughout that period. 
 
 **<a href="http://www.southkiosk.com" target="blank">South Kiosk</a>** (2013 –– 2014)\
-*Freelance Graphic Designer*
+*Graphic Designer*
 
 During my time at South Kiosk my role was as graphic designer, I worked on in-house print ephemera as well as digital marketing and assets. I worked on the visual identity for Vestige, an exhibition of nostalgic tech held at the Design Museum, London.
 
