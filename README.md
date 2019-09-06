@@ -37,8 +37,6 @@ Graduate of Makers Academy intensive full-stack bootcamp.
 
 **The Royal College of Art** (2014 –– 2016)\
 MA Visual Communication (Distinction)
-  - Lectured as part of the Research, Design, Publish Symposium.
-  - Active and founding member of Swim, Surf, Climb.
 
 **Central St Martins** (2010 –– 2013)\
 BA Design Interaction (First Class Honours)
