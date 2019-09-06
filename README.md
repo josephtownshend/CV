@@ -26,7 +26,7 @@ Processes: Pair Programming, Agile Methodology, Test Driven Development, Behavio
 
 ## Education
 
-**<a href="https://www.makers.tech/" target="blank">Makers Academy</a>** (May 2019 –– August 2019)\
+**<a href="https://www.makers.tech/" target="blank">Makers Academy</a>**, May 2019 –– August 2019\
 Graduate of Makers Academy intensive full-stack bootcamp.
   - Worked on 30+ projects ranging from a notes app to a Facebook clone.
   - Designed and built a programming language in 2 weeks.
@@ -36,15 +36,15 @@ Graduate of Makers Academy intensive full-stack bootcamp.
 
 
 **<a href="https://www.rca.ac.uk/" target="blank">The Royal College of Art</a>**, 2014 –– 2016\
-MA Visual Communication (Distinction)
+MA Visual Communication (**Distinction**)
   - Lectured as part of *Reseach, Design, Publish* Symposium
   - Shortlisted for the Varley prize
 
 **<a href="https://www.arts.ac.uk/colleges/central-saint-martins" target="blank">Central St Martins</a>**, 2010 –– 2013\
-BA Design Interaction (First Class Honours)
+BA Design Interaction (**First Class Honours**)
 
 **<a href="https://www.arts.ac.uk/colleges/central-saint-martins" target="blank">Central St Martins</a>**, 2009 –– 2010\
-Art & Design Foundation Diploma (Merit)
+Art & Design Foundation Diploma (**Merit**)
 
 ## Experience
 
