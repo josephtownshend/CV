@@ -28,7 +28,7 @@
 
 **<p align="center">What I'm learning now**
           
-|  <p align="center">I am working with Elixir, Phoenix & GraphQL</p> | <p align="center">Researching and implementing design patterns</p>  |  <p align="center">Learning about language paradigms</p> |
+|  <p align="center">Working with Elixir, Phoenix & GraphQL</p> | <p align="center">Implementing design patterns</p>  |  <p align="center">Learning about langauge paradigms</p> |
 |---|---|---|
           
 -------
