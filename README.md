@@ -22,7 +22,7 @@
 | Project  | Description  | Technology  |
 |---|---|---|
 | <p align="center">[**Forest**](https://github.com/josephtownshend/Forest_Lang)</p> | <p align="center">A team project to build and design a new programming language, whilst also learning a new programming language.</p> | <p align="center">Python & Unittest</p>  |
-| <p align="center">[**House Hunter**](https://github.com/josephtownshend/House_Hunter)</p> | <p align="center">An investigation into building a property finding app & learning some new tech</p> | <p align="center">Elixir, Phoenix & GraphQL</p>
+| <p align="center">[**House Hunter**](https://github.com/josephtownshend/House_Hunter)</p> | <p align="center">An investigation into building a property finding app & learning some new tech</p> | <p align="center">Elixir, Phoenix, GraphQL & PostgreSQL</p>
 | <p align="center">[**Parrot**](https://github.com/josephtownshend/Parrot)</p> | <p align="center">A curious self initiated project to build a teeny tiny command line application complete with testing.</p> | <p align="center">Ruby, Shell & BATS</p> |
 | <p align="center">[**Bank Tech Test**](https://github.com/josephtownshend/Bank)</p> | <p align="center">A technical test to build a command line banking app.</p>  | <p align="center">Ruby & RSpec</p> |
 | <p align="center">[**FizzBuzz Everything**](https://github.com/josephtownshend/FizzBuzz_In_Every_Language)</p> | <p align="center">An ongoing exploration into language and TDD through the medium of FizzBuzz.</p>  | <p align="center">Ruby & RSpec, Javascript & Jasmine, Python & Unittest, Java & Junit, Scala & ScalaTest + FunSuite, Elixir & ExUnit + mix, Clojure & clojure.test, Rust, GoLang</p> |
