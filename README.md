@@ -48,13 +48,13 @@ Art & Design Foundation Diploma (**Merit**)
 
 ## Experience
 
-**<a href="https://coderdojo.com/" target="blank">CoderDojo</a>**, 2019\    
+**<a href="https://coderdojo.com/" target="blank">CoderDojo</a>**, 2019    
 *Mentor*
 
 * Teaching young people how to programme using Blockly & Scratch.
 
 
-**<a href="http://www.housework.press" target="blank">Housework(Press)</a>**, 2016 –– 2019\   
+**<a href="http://www.housework.press" target="blank">Housework(Press)</a>**, 2016 –– 2019   
 *Founder*
 
 * Completed over 250 projects.
