@@ -28,7 +28,7 @@
 
 **<p align="center">What I'm learning now**
           
-|  <p align="center">Working with Elixir, Phoenix & GraphQL</p> | <p align="center">Implementing design patterns</p>  |  <p align="center">Learning about langauge paradigms</p> |
+|  <p align="center">Working with Elixir, Phoenix & GraphQL</p> | <p align="center">Researching & implementing design patterns</p>  |  <p align="center">Learning about langauge paradigms</p> |
 |---|---|---|
           
 -------
@@ -51,44 +51,35 @@
 
 **<p align="center"><a href="https://www.arts.ac.uk/colleges/central-saint-martins" target="blank">Central St Martins</a>**<br>Art & Design Foundation Diploma (**Merit**)<br>2009 –– 2010</p>
 
+------
 
-## Experience
+**<p align="center">Experience</p>**
 
-**<a href="https://coderdojo.com/" target="blank">CoderDojo</a>**, 2019    
-*Mentor*
+**<p align="center"><a href="https://coderdojo.com/" target="blank">CoderDojo</a>**, 2019<br>*Mentor*</p>   
 
-* Teaching young people how to programme using Blockly & Scratch.
-* Working with a group of up to 8 students.
+<p align="center">• Teaching young people how to programme using Blockly & Scratch.<br>
+          • Working with a group of up to 8 students.</p>
 
 
-**<a href="http://www.housework.press" target="blank">Housework(Press)</a>**, 2016 –– 2019   
-*Founder*
+**<p align="center"><a href="http://www.housework.press" target="blank">Housework(Press)</a>**, 2016 –– 2019<br>*Founder*</p>
 
-* Completed over 250 projects.
-* Mentored 3 interns.
-* Taught workshops at the Royal College Of Art.
-* Held clients such as The Design Museum, The Serpentine, The British Fashion Council & Architectural Association.
+**<p align="center">• Completed over 250 projects.<br>• Mentored 3 interns.<br>• Taught workshops at the Royal College Of Art.<br>• Held clients such as The Design Museum, The Serpentine, The British Fashion Council & Architectural Association.</p>
 
-**<a href="http://www.joe-t.com" target="blank">Joseph Townshend Studio</a>**, 2010 –– 2019\
-*Founder*  
+**<p align="center"><a href="http://www.joe-t.com" target="blank">Joseph Townshend Studio</a>**, 2010 –– 2019<br>*Founder*</p>  
+<p align="center">• Lectured at Bath Spa University.<br>
+          • Developed extensive expertise in print and book design.<br>
+          • Created numerous visual identities for emerging UK institutions.<br>
+          • Completed a project for Luke Vibert (a personal hero).</p>
 
-* Lectured at Bath Spa University.
-* Developed extensive expertise in print and book design.
-* Created numerous visual identities for emerging UK institutions.
-* Completed a project for Luke Vibert (a personal hero).
+**<p align="center"><a href="http://www.jotta.com" target="blank">Jotta</a>**, 2013 –– 2014<br>*Graphic Designer & Creative*</p>
 
-**<a href="http://www.jotta.com" target="blank">Jotta</a>**, 2013 –– 2014\
-*Graphic Designer & Creative*
+<p align="center">• Ideated concept art and decks to aid pitching to clients.<br>
+          • Created graphics for Heineken, Samsung, Intel and Pernod Ricard.<br>
+          • Responsible for in-house print ephemera, digital marketing and assets.</p>
 
-* Ideated concept art and decks to aid pitching to clients. 
-* Created graphics for Heineken, Samsung, Intel and Pernod Ricard. 
-* Responsible for in-house print ephemera, digital marketing and assets. 
+**<p align="center"><a href="http://www.southkiosk.com" target="blank">South Kiosk</a>**, 2013 –– 2014<br>*Graphic Designer*</p>
 
-**<a href="http://www.southkiosk.com" target="blank">South Kiosk</a>**, 2013 –– 2014\
-*Graphic Designer*
-
-* Created visual identity for Vestige, an exhibition of nostalgic tech held at The Design Museum, London.
-* Responsible for in-house print ephemera, digital marketing and assets. 
+<p align="center">• Created visual identity for Vestige, an exhibition of nostalgic tech held at The Design Museum, London <br>• Responsible for in-house print ephemera, digital marketing and assets.</p>
 
 ## Skills
 
