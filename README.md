@@ -65,11 +65,7 @@
 
 <p align="center">• Completed over 250 projects.<br>• Mentored 3 interns.<br>• Taught workshops at the Royal College Of Art.<br>• Held clients such as The Design Museum, The Serpentine, The British Fashion Council & Architectural Association.</p>
 
-**<p align="center"><a href="http://www.joe-t.com" target="blank">Joseph Townshend Studio</a>**, 2010 –– 2019<br>*Founder*</p>  
-<p align="center">• Lectured at Bath Spa University.<br>
-          • Developed extensive expertise in print and book design.<br>
-          • Created numerous visual identities for emerging UK institutions.<br>
-          • Completed a project for Luke Vibert (a personal hero).</p>
+**<p align="center"><a href="http://www.joe-t.com" target="blank">Joseph Townshend Studio</a>**, **Founder**, 2010 –– 2019<br>• Lectured at Bath Spa University.<br>• Developed extensive expertise in print and book design.<br>• Created numerous visual identities for emerging UK institutions.<br>• Completed a project for Luke Vibert (a personal hero).</p>  
 
 **<p align="center"><a href="http://www.jotta.com" target="blank">Jotta</a>**, 2013 –– 2014<br>*Graphic Designer & Creative*</p>
 
