@@ -47,14 +47,14 @@
 
 
 
-**<p align="center"><a href="https://www.rca.ac.uk/" target="blank">The Royal College of Art</a>**<br>MA Visual Communication (**Distinction**), 2014 –– 2016</p>
+**<p align="center"><a href="https://www.rca.ac.uk/" target="blank">The Royal College of Art</a>**<br>MA Visual Communication (**Distinction**)<br>2014 –– 2016</p>
   <p align="center">• Lectured as part of 'Reseach, Design, Publish' Symposium<br>
   • Shortlisted for the Varley prize</p>
 
-**<p align="center"><a href="https://www.arts.ac.uk/colleges/central-saint-martins" target="blank">Central St Martins</a>**<br>BA Design Interaction (**First Class Honours**), 2010 –– 2013</p>
+**<p align="center"><a href="https://www.arts.ac.uk/colleges/central-saint-martins" target="blank">Central St Martins</a>**<br>BA Design Interaction (**First Class Honours**)<br>2010 –– 2013</p>
 
 
-**<p align="center"><a href="https://www.arts.ac.uk/colleges/central-saint-martins" target="blank">Central St Martins</a><br>Art & Design Foundation Diploma (**Merit**)**, 2009 –– 2010</p>
+**<p align="center"><a href="https://www.arts.ac.uk/colleges/central-saint-martins" target="blank">Central St Martins</a><br>Art & Design Foundation Diploma (**Merit**)**<br>2009 –– 2010</p>
 
 
 ## Experience
