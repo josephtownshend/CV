@@ -61,9 +61,9 @@
           • Working with a group of up to 8 students.</p>
 
 
-**<p align="center"><a href="http://www.housework.press" target="blank">Housework(Press)</a>**, 2016 –– 2019<br>*Founder*</p>
+**<p align="center"><a href="http://www.housework.press" target="blank">Housework(Press)</a>**, **Founder**, 2016 –– 2019<br>• Completed over 250 projects.<br>• Mentored 3 interns.<br>• Taught workshops at the Royal College Of Art.<br>• Held clients such as The Design Museum, The Serpentine, The British Fashion Council & Architectural Association.</p></p>
 
-<p align="center">• Completed over 250 projects.<br>• Mentored 3 interns.<br>• Taught workshops at the Royal College Of Art.<br>• Held clients such as The Design Museum, The Serpentine, The British Fashion Council & Architectural Association.</p>
+
 
 **<p align="center"><a href="http://www.joe-t.com" target="blank">Joseph Townshend Studio</a>**, **Founder**, 2010 –– 2019<br>• Lectured at Bath Spa University.<br>• Developed extensive expertise in print and book design.<br>• Created numerous visual identities for emerging UK institutions.<br>• Completed a project for Luke Vibert (a personal hero).</p>  
 
