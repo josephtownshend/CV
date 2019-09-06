@@ -13,9 +13,7 @@
 
 <p align="center"> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Ruby-328%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/JavaScript-102%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Python-70%20commits-orange.svg" alt=""> </a><a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Java-47%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Elixir-62%20commits-orange.svg" alt=""></a></p>
 
-<p align="center">Testing Frameworks: Jasmine, RSpec, Unittest.</p>
-
-<p align="center">Pair Programming, Agile Methodology, Test Driven Development, Behaviour Driven Development, XP Value.</p>
+<p align="center">Pair Programming, Agile Methodology, Test Driven Development, Behaviour Driven Development, XP Values.</p>
 
 **<p align="center">Recent Notable Projects</p>**
  
@@ -26,10 +24,10 @@
 | [**Bank Tech Test**](https://github.com/josephtownshend/Bank) | A technical test to build a command line banking app.  | Ruby & RSpec |
 | [**FizzBuzz Everything**](https://github.com/josephtownshend/FizzBuzz_In_Every_Language) | An ongoing exploration into language and TDD through the medium of FizzBuzz.  | Ruby & RSpec, Javascript & Jasmine, Python & Unittest, Java & Junit, Scala & ScalaTest + FunSuite, Elixir & ExUnit + mix, Clojure & clojure.test, Rust, GoLang |
 
-## What I'm learning now
-- I am working with Elixir, Phoenix & GraphQL
+**<p align="center">What I'm learning now**
+<p align="center">- I am working with Elixir, Phoenix & GraphQL
 - Researching and implementing design patterns
-- Learning about language paradigms
+- Learning about language paradigms</p>
 
 ## Education
 
