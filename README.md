@@ -55,27 +55,33 @@
 
 **<p align="center">Experience</p>**
 
-**<p align="center"><a href="https://coderdojo.com/" target="blank">CoderDojo</a>**, 2019<br>*Mentor*</p>   
+**<p align="center"><a href="https://coderdojo.com/" target="blank">CoderDojo</a>**, **Mentor**, 2019<br>
+          • Teaching young people how to programme using Blockly & Scratch.<br>
+          • Working with a group of up to 8 students.</p>   
 
-<p align="center">• Teaching young people how to programme using Blockly & Scratch.<br>
-          • Working with a group of up to 8 students.</p>
+<p align="center"></p>
 
+**<p align="center"><a href="http://www.housework.press" target="blank">Housework(Press)</a>**, **Founder**, 2016 –– 2019<br>
+          • Completed over 250 projects.<br>
+          • Mentored 3 interns.<br>
+          • Taught workshops at the Royal College Of Art.<br>
+          • Held clients such as The Design Museum, The Serpentine, <br>The British Fashion Council & Architectural Association.</p></p>
 
-**<p align="center"><a href="http://www.housework.press" target="blank">Housework(Press)</a>**, **Founder**, 2016 –– 2019<br>• Completed over 250 projects.<br>• Mentored 3 interns.<br>• Taught workshops at the Royal College Of Art.<br>• Held clients such as The Design Museum, The Serpentine, The British Fashion Council & Architectural Association.</p></p>
+**<p align="center"><a href="http://www.joe-t.com" target="blank">Joseph Townshend Studio</a>**, **Founder**, 2010 –– 2019<br>
+          • Lectured at Bath Spa University.<br>
+          • Developed extensive expertise in print and book design.<br>
+          • Created numerous visual identities for emerging UK institutions.<br>
+          • Completed a project for Luke Vibert (a personal hero).</p>  
 
-
-
-**<p align="center"><a href="http://www.joe-t.com" target="blank">Joseph Townshend Studio</a>**, **Founder**, 2010 –– 2019<br>• Lectured at Bath Spa University.<br>• Developed extensive expertise in print and book design.<br>• Created numerous visual identities for emerging UK institutions.<br>• Completed a project for Luke Vibert (a personal hero).</p>  
-
-**<p align="center"><a href="http://www.jotta.com" target="blank">Jotta</a>**, 2013 –– 2014<br>*Graphic Designer & Creative*</p>
-
-<p align="center">• Ideated concept art and decks to aid pitching to clients.<br>
+**<p align="center"><a href="http://www.jotta.com" target="blank">Jotta</a>**, **Graphic Designer & Creative**, 2013 –– 2014<br>
+          • Ideated concept art and decks to aid pitching to clients.<br>
           • Created graphics for Heineken, Samsung, Intel and Pernod Ricard.<br>
           • Responsible for in-house print ephemera, digital marketing and assets.</p>
 
-**<p align="center"><a href="http://www.southkiosk.com" target="blank">South Kiosk</a>**, 2013 –– 2014<br>*Graphic Designer*</p>
 
-<p align="center">• Created visual identity for Vestige, an exhibition of nostalgic tech held at The Design Museum, London <br>• Responsible for in-house print ephemera, digital marketing and assets.</p>
+**<p align="center"><a href="http://www.southkiosk.com" target="blank">South Kiosk</a>**, **Graphic Designer**, 2013 –– 2014<br>
+          • Created visual identity for Vestige, an exhibition of nostalgic tech held at The Design Museum, London <br>
+          • Responsible for in-house print ephemera, digital marketing and assets.</p>
 
 ## Skills
 
