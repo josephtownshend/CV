@@ -40,8 +40,8 @@
 <p align="center">• Worked on 30+ projects ranging from a notes app to a Facebook clone <br> 
           • Designed and built a programming language in 2 weeks <br> 
           • Consistently learnt new tech on the fly and under pressure, including Rails, JQuery & Python<br> 
-          • Established excellent programming practices such as TDD and pairing   <br>        
-          • Became a skillful user of GitHub - READMEs, merges, pull requests & semantic commits.</p>
+          • Established excellent programming practices such as TDD and pairing<br>        
+          • Became a skillful user of GitHub - READMEs, merges, pull requests & semantic commits</p>
 
 **<p align="center"><a href="https://www.rca.ac.uk/" target="blank">The Royal College of Art</a>**<br>MA Visual Communication (**Distinction**)<br>2014 –– 2016</p>
   <p align="center">• Lectured as part of 'Reseach, Design, Publish' Symposium<br>
@@ -56,32 +56,32 @@
 **<p align="center">Experience</p>**
 
 **<p align="center"><a href="https://coderdojo.com/" target="blank">CoderDojo</a>**, **Mentor**, 2019<br>
-          • Teaching young people how to programme using Blockly & Scratch.<br>
-          • Working with a group of up to 8 students.</p>   
+          • Teaching young people how to programme using Blockly & Scratch<br>
+          • Working with a group of up to 8 students</p>   
 
 <p align="center"></p>
 
 **<p align="center"><a href="http://www.housework.press" target="blank">Housework(Press)</a>**, **Founder**, 2016 –– 2019<br>
-          • Completed over 250 projects.<br>
-          • Mentored 3 interns.<br>
-          • Taught workshops at the Royal College Of Art.<br>
-          • Held clients such as The Design Museum, The Serpentine, <br>The British Fashion Council & Architectural Association.</p></p>
+          • Completed over 250 projects<br>
+          • Mentored 3 interns<br>
+          • Taught workshops at the Royal College Of Art<br>
+          • Held clients such as The Design Museum, The Serpentine, <br>The British Fashion Council & Architectural Association</p></p>
 
 **<p align="center"><a href="http://www.joe-t.com" target="blank">Joseph Townshend Studio</a>**, **Founder**, 2010 –– 2019<br>
           • Lectured at Bath Spa University.<br>
-          • Developed extensive expertise in print and book design.<br>
-          • Created numerous visual identities for emerging UK institutions.<br>
-          • Completed a project for Luke Vibert (a personal hero).</p>  
+          • Developed extensive expertise in print and book design<br>
+          • Created numerous visual identities for emerging UK institutions<br>
+          • Completed a project for Luke Vibert (a personal hero)</p>  
 
 **<p align="center"><a href="http://www.jotta.com" target="blank">Jotta</a>**, **Graphic Designer & Creative**, 2013 –– 2014<br>
-          • Ideated concept art and decks to aid pitching to clients.<br>
-          • Created graphics for Heineken, Samsung, Intel and Pernod Ricard.<br>
-          • Responsible for in-house print ephemera, digital marketing and assets.</p>
+          • Ideated concept art and decks to aid pitching to clients<br>
+          • Created graphics for Heineken, Samsung, Intel and Pernod Ricard<br>
+          • Responsible for in-house print ephemera, digital marketing and assets</p>
 
 
 **<p align="center"><a href="http://www.southkiosk.com" target="blank">South Kiosk</a>**, **Graphic Designer**, 2013 –– 2014<br>
           • Created visual identity for Vestige, an exhibition of <br>nostalgic tech held at The Design Museum, London <br>
-          • Responsible for in-house print ephemera, digital marketing and assets.</p>
+          • Responsible for in-house print ephemera, digital marketing and assets</p>
 
 ------
 
