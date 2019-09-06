@@ -28,15 +28,17 @@ Processes: Pair Programming, Agile Methodology, Test Driven Development, Behavio
 
 #### Makers Academy (May 2019 –– August 2019)
 - Graduate of Makers Academy intensive full-stack bootcamp.
-- Worked on 30+ projects ranging from a notes app to a Facebook clone.
-- Designed and built a programming language in 2 weeks.
-- Consistently learnt new tech on the fly and under pressure, including Rails, JQuery & Python.
-- Established excellent programming practices such as TDD and pairing.
-- Became a skillful user of GitHub - READMEs, merges, pull requests & semantic commits.
+  - Worked on 30+ projects ranging from a notes app to a Facebook clone.
+  - Designed and built a programming language in 2 weeks.
+  - Consistently learnt new tech on the fly and under pressure, including Rails, JQuery & Python.
+  - Established excellent programming practices such as TDD and pairing.
+  - Became a skillful user of GitHub - READMEs, merges, pull requests & semantic commits.
 
 
 #### The Royal College of Art (2014 –– 2016)
 - MA Visual Communication (Distinction)
+  - Lectured as part of the Research, Design, Publish Symposium.
+  - Active and founding member of Swim, Surf, Climb.
 
 #### Central St Martins (2010 –– 2013)
 - BA Design Interaction (First Class Honours)
