@@ -13,7 +13,7 @@
 
 <p align="center"> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Ruby-328%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/JavaScript-102%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Python-70%20commits-orange.svg" alt=""> </a><a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Java-47%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Elixir-62%20commits-orange.svg" alt=""></a></p>
 
-<p align="center">Pair Programming, Agile Methodology, Test Driven Development, Behaviour Driven Development, XP Values.</p>
+<p align="center">Pair Programming –– Agile Methodology –– Test Driven Development –– Behaviour Driven Development –– XP Values.</p>
 
 --------
 
@@ -21,10 +21,10 @@
  
 | Project  | Description  | Technology  |
 |---|---|---|
-| [**Forest**](https://github.com/lucianmot/f.rest) | A team project to build and design a new programming language, whilst also learning a new programming language. | Python & Unittest  |
-| [**Parrot**](https://github.com/josephtownshend/Parrot) | A curious self initiated project to build a teeny tiny command line application complete with testing. | Ruby, Shell & BATS |
-| [**Bank Tech Test**](https://github.com/josephtownshend/Bank) | A technical test to build a command line banking app.  | Ruby & RSpec |
-| [**FizzBuzz Everything**](https://github.com/josephtownshend/FizzBuzz_In_Every_Language) | An ongoing exploration into language and TDD through the medium of FizzBuzz.  | Ruby & RSpec, Javascript & Jasmine, Python & Unittest, Java & Junit, Scala & ScalaTest + FunSuite, Elixir & ExUnit + mix, Clojure & clojure.test, Rust, GoLang |
+| <p align="center">[**Forest**](https://github.com/lucianmot/f.rest)</p> | <p align="center">A team project to build and design a new programming language, whilst also learning a new programming language.</p> | <p align="center">Python & Unittest</p>  |
+| <p align="center">[**Parrot**](https://github.com/josephtownshend/Parrot)</p> | <p align="center">A curious self initiated project to build a teeny tiny command line application complete with testing.</p> | <p align="center">Ruby, Shell & BATS</p> |
+| <p align="center">[**Bank Tech Test**](https://github.com/josephtownshend/Bank)</p> | <p align="center">A technical test to build a command line banking app.</p>  | <p align="center">Ruby & RSpec</p> |
+| <p align="center">[**FizzBuzz Everything**](https://github.com/josephtownshend/FizzBuzz_In_Every_Language)</p> | <p align="center">An ongoing exploration into language and TDD through the medium of FizzBuzz.</p>  | <p align="center">Ruby & RSpec, Javascript & Jasmine, Python & Unittest, Java & Junit, Scala & ScalaTest + FunSuite, Elixir & ExUnit + mix, Clojure & clojure.test, Rust, GoLang</p> |
 
 **<p align="center">What I'm learning now**
 <p align="center">I am working with Elixir, Phoenix & GraphQL  ––     Researching and implementing design patterns     ––     Learning about language paradigms</p>
