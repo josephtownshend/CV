@@ -4,7 +4,7 @@ I am an early career full stack software developer and recent graduate of Makers
 
 ## Technologies & Processes
 
-<a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Ruby-317%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/JavaScript-102%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Python-45%20commits-orange.svg" alt=""> </a><a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Java-47%20commits-orange.svg" alt=""></a><a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Elixir-51%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Ruby-317%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/JavaScript-102%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Python-45%20commits-orange.svg" alt=""> </a><a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Java-47%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Elixir-51%20commits-orange.svg" alt=""></a>
 
 Testing Frameworks: Jasmine, RSpec, Unittest.
 
