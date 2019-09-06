@@ -109,8 +109,6 @@ Art & Design Foundation Diploma (**Merit**)
 * Vegan cooking, and a quest to find great meat alternatives.
 * Trying to write [blog posts](https://github.com/josephtownshend/Blog).
 
-## Contact Info
+**<p align="center">Contact Info</p>**
 
-* joetownshend@mac.com
-* +44(0)7525252931
-* www.linkedin.com/in/joseph-townshend
+<p align="center"> joetownshend@mac.com –– +44(0)7525252931 –– [**LinkedIn**](www.linkedin.com/in/joseph-townshend)</p>
