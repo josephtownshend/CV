@@ -35,10 +35,13 @@
 
 **<p align="center">Education</p>**
 
-| **<p align="center"><a href="https://www.makers.tech/" target="blank">Makers Academy</a>**  |
-|---|
-| <p align="center">May 2019 –– August 2019</p> |
-| <ul><li>Worked on 30+ projects ranging from a notes app to a Facebook clone.</li><li>Designed and built a programming language in 2 weeks.</li><li>Consistently learnt new tech on the fly and under pressure, including Rails, JQuery & Python.</li><li>Established excellent programming practices such as TDD and pairing.</li><li>Became a skillful user of GitHub - READMEs, merges, pull requests & semantic commits.</li></ul>  |
+**<p align="center"><a href="https://www.makers.tech/" target="blank">Makers Academy</a> <br>May 2019 –– August 2019</p>**
+
+<p align="center">• Worked on 30+ projects ranging from a notes app to a Facebook clone <br> 
+          • Designed and built a programming language in 2 weeks <br> 
+          • Consistently learnt new tech on the fly and under pressure, including Rails, JQuery & Python<br> 
+          • Established excellent programming practices such as TDD and pairing   <br>        
+          • Became a skillful user of GitHub - READMEs, merges, pull requests & semantic commits.</p>
 
 
 
