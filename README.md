@@ -35,26 +35,26 @@ Graduate of Makers Academy intensive full-stack bootcamp.
   - Became a skillful user of GitHub - READMEs, merges, pull requests & semantic commits.
 
 
-**<a href="https://www.rca.ac.uk/" target="blank">The Royal College of Art</a>** (2014 –– 2016)\
+**<a href="https://www.rca.ac.uk/" target="blank">The Royal College of Art</a>**, 2014 –– 2016\
 MA Visual Communication (Distinction)
   - Lectured as part of *Reseach, Design, Publish* Symposium
   - Shortlisted for the Varley prize
 
-**<a href="https://www.arts.ac.uk/colleges/central-saint-martins" target="blank">Central St Martins</a>** (2010 –– 2013)\
+**<a href="https://www.arts.ac.uk/colleges/central-saint-martins" target="blank">Central St Martins</a>**, 2010 –– 2013\
 BA Design Interaction (First Class Honours)
 
-**<a href="https://www.arts.ac.uk/colleges/central-saint-martins" target="blank">Central St Martins</a>** (2009 –– 2010)\
+**<a href="https://www.arts.ac.uk/colleges/central-saint-martins" target="blank">Central St Martins</a>**, 2009 –– 2010\
 Art & Design Foundation Diploma (Merit)
 
 ## Experience
 
-**<a href="https://coderdojo.com/" target="blank">CoderDojo</a>** (2019)    
+**<a href="https://coderdojo.com/" target="blank">CoderDojo</a>**, 2019\    
 *Mentor*
 
 * Teaching young people how to programme using Blockly & Scratch.
 
 
-**<a href="http://www.housework.press" target="blank">Housework(Press)</a>** (2016 –– 2019)    
+**<a href="http://www.housework.press" target="blank">Housework(Press)</a>**, 2016 –– 2019\   
 *Founder*
 
 * Completed over 250 projects.
@@ -62,7 +62,7 @@ Art & Design Foundation Diploma (Merit)
 * Taught workshops at the Royal College Of Art.
 * Held clients such as The Design Museum, The Serpentine, The British Fashion Council & Architectural Association.
 
-**<a href="http://www.joe-t.com" target="blank">Joseph Townshend Studio</a>** (2010 –– 2019)   
+**<a href="http://www.joe-t.com" target="blank">Joseph Townshend Studio</a>**, 2010 –– 2019\
 *Founder*  
 
 * Lectured at Bath Spa University.
@@ -70,7 +70,7 @@ Art & Design Foundation Diploma (Merit)
 * Created numerous visual identities for emerging UK institutions.
 * Completed a project for Luke Vibert (a personal hero).
 
-**<a href="http://www.jotta.com" target="blank">Jotta</a>** (2013 –– 2014)\
+**<a href="http://www.jotta.com" target="blank">Jotta</a>**, 2013 –– 2014\
 *Graphic Designer & Creative*
 
 * Ideated concept art and decks to aid pitching to clients. 
@@ -78,7 +78,7 @@ Art & Design Foundation Diploma (Merit)
 * Responsible for building and installing sets for events or shoots.
 * Responsible for in-house print ephemera, digital marketing and assets. 
 
-**<a href="http://www.southkiosk.com" target="blank">South Kiosk</a>** (2013 –– 2014)\
+**<a href="http://www.southkiosk.com" target="blank">South Kiosk</a>**, 2013 –– 2014\
 *Graphic Designer*
 
 * Responsible for in-house print ephemera, digital marketing and assets. 
