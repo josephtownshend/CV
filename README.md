@@ -4,7 +4,7 @@ I am an early career full stack software developer and recent graduate of Makers
 
 ## Technologies & Processes
 
-<a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Ruby-317%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/JavaScript-102%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Python-45%20commits-orange.svg" alt=""> </a><a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Java-47%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Ruby-317%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/JavaScript-102%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Python-45%20commits-orange.svg" alt=""> </a><a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Java-47%20commits-orange.svg" alt=""></a><a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Elixir-51%20commits-orange.svg" alt=""></a>
 
 Testing Frameworks: Jasmine, RSpec, Unittest.
 
@@ -52,6 +52,7 @@ Art & Design Foundation Diploma (**Merit**)
 *Mentor*
 
 * Teaching young people how to programme using Blockly & Scratch.
+* Working with a group of up to 8 students.
 
 
 **<a href="http://www.housework.press" target="blank">Housework(Press)</a>**, 2016 –– 2019   
@@ -75,14 +76,13 @@ Art & Design Foundation Diploma (**Merit**)
 
 * Ideated concept art and decks to aid pitching to clients. 
 * Created graphics for Heineken, Samsung, Intel and Pernod Ricard. 
-* Responsible for building and installing sets for events or shoots.
 * Responsible for in-house print ephemera, digital marketing and assets. 
 
 **<a href="http://www.southkiosk.com" target="blank">South Kiosk</a>**, 2013 –– 2014\
 *Graphic Designer*
 
-* Responsible for in-house print ephemera, digital marketing and assets. 
 * Created visual identity for Vestige, an exhibition of nostalgic tech held at The Design Museum, London.
+* Responsible for in-house print ephemera, digital marketing and assets. 
 
 ## Skills
 
