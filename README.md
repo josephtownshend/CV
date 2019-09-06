@@ -43,27 +43,38 @@ Processes: Pair Programming, Agile Methodology, Test Driven Development, Behavio
 **<a href="https://coderdojo.com/" target="blank">CoderDojo</a>** (2019)    
 *Mentor*
 
-CoderDojo is a free, global and volunteer led initiative for young people to learn programming. We use Blockly and Scratch, both of which are block-based visual programming languages, developed by Google and MIT respectively. It has been a great opportunity to learn something new and try to teach that skill to students with little to no experience. 
+* Teaching young people how to programme using Blockly & Scratch.
+
 
 **<a href="http://www.housework.press" target="blank">Housework(Press)</a>** (2016 –– 2019)    
 *Founder*
 
-Housework(Press) was as a South East London based *Risograph* print press and publishing company dedicated to realising experimental and process-driven design and art. Over 3 years of operation, Housework(Press) worked on more than 200 jobs from clients such as *The Design Museum, The Serpentine, Studio Moross, The British Fashion Council, Architectural Association* and *The Royal College of Art.*
+* Completed over 250 projects.
+* Mentored 3 interns.
+* Held workshops & taught at the Royal College Of Art.
+* Worked with clients such as The Design Museum, The Serpentine, The British Fashion Council & Architectural Association.
 
 **<a href="http://www.joe-t.com" target="blank">Joseph Townshend Studio</a>** (2010 –– 2019)   
 *Founder*  
 
-Since embarking on my graphic design education I have continuously worked as a freelance and self-employed graphic designer. I have a key interest in print design and in combination with my experience at Housework(Press) I have since become well known for my playful, vibrant Risograph poster work and book design. Recent clients include *Black Tower Projects, Kestle Barton Gallery,* and *Newlyn Art Gallery*
+* Lectured at Bath Spa University.
+* Developed extensive expertise in print and book design.
+* Created numerous visual identities for emerging UK institutions.
+* Completed a project for Luke Vibert (a personal hero).
 
 **<a href="http://www.jotta.com" target="blank">Jotta</a>** (2013 –– 2014)\
 *Graphic Designer & Creative*
 
-During my time at Jotta I worked on multiple projects for clients including *Heineken, Samsung, Intel* and *Pernod Ricard*. I worked predominantly as a creative, which included roles such as set design and build as well as curating events and installations. Along side my creative work I also produced the in-house graphic design throughout that period. 
+* Ideated concept art and decks to aid pitching to clients. 
+* Created graphics for Heineken, Samsung, Intel and Pernod Ricard. 
+* Responsible for building and installing sets for events or shoots.
+* Responsible for in-house print ephemera, digital marketing and assets. 
 
 **<a href="http://www.southkiosk.com" target="blank">South Kiosk</a>** (2013 –– 2014)\
 *Graphic Designer*
 
-During my time at South Kiosk my role was as graphic designer, I worked on in-house print ephemera as well as digital marketing and assets. I worked on the visual identity for Vestige, an exhibition of nostalgic tech held at the Design Museum, London.
+* Responsible for in-house print ephemera, digital marketing and assets. 
+* Created visual identity for Vestige, an exhibition of nostalgic tech held at The Design Museum, London.
 
 ## Skills
 
