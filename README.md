@@ -25,9 +25,7 @@
 | [**FizzBuzz Everything**](https://github.com/josephtownshend/FizzBuzz_In_Every_Language) | An ongoing exploration into language and TDD through the medium of FizzBuzz.  | Ruby & RSpec, Javascript & Jasmine, Python & Unittest, Java & Junit, Scala & ScalaTest + FunSuite, Elixir & ExUnit + mix, Clojure & clojure.test, Rust, GoLang |
 
 **<p align="center">What I'm learning now**
-<p align="center">- I am working with Elixir, Phoenix & GraphQL
-- Researching and implementing design patterns
-- Learning about language paradigms</p>
+<p align="center">I am working with Elixir, Phoenix & GraphQL // Researching and implementing design patterns // Learning about language paradigms</p>
 
 ## Education
 
