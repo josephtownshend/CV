@@ -63,7 +63,7 @@
 
 **<p align="center"><a href="http://www.housework.press" target="blank">Housework(Press)</a>**, 2016 –– 2019<br>*Founder*</p>
 
-**<p align="center">• Completed over 250 projects.<br>• Mentored 3 interns.<br>• Taught workshops at the Royal College Of Art.<br>• Held clients such as The Design Museum, The Serpentine, The British Fashion Council & Architectural Association.</p>
+<p align="center">• Completed over 250 projects.<br>• Mentored 3 interns.<br>• Taught workshops at the Royal College Of Art.<br>• Held clients such as The Design Museum, The Serpentine, The British Fashion Council & Architectural Association.</p>
 
 **<p align="center"><a href="http://www.joe-t.com" target="blank">Joseph Townshend Studio</a>**, 2010 –– 2019<br>*Founder*</p>  
 <p align="center">• Lectured at Bath Spa University.<br>
