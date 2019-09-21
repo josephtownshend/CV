@@ -13,7 +13,7 @@
 
 **<p align="center">Technologies & Processes</p>**
 
-<p align="center"> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Ruby-328%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/JavaScript-114%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Python-70%20commits-orange.svg" alt=""> </a><a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Java-55%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Elixir-91%20commits-orange.svg" alt=""></a></p>
+<p align="center"> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Ruby-328%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/JavaScript-114%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Python-70%20commits-orange.svg" alt=""> </a><a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Java-90%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Elixir-91%20commits-orange.svg" alt=""></a></p>
 
 <p align="center">Pair Programming –– Agile Methodology –– Test Driven Development –– Behaviour Driven Development –– XP Values</p>
 
@@ -31,7 +31,7 @@
 
 **<p align="center">What I'm excited about learning now**
           
-|  <p align="center">Working with Elixir, Phoenix & GraphQL</p> | <p align="center">Researching & implementing design patterns</p>  |  <p align="center">Learning about langauge paradigms</p> |
+|  <p align="center">Working with Java</p> | <p align="center">Researching & implementing design patterns</p>  |  <p align="center">Learning about langauge paradigms</p> |
 |---|---|---|
           
 -------
