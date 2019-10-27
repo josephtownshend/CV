@@ -28,11 +28,6 @@
 | <p align="center">[**Parrot**](https://github.com/josephtownshend/Parrot)</p> | <p align="center">A curious self initiated project to build a teeny tiny command line application complete with testing.</p> | <p align="center">Ruby, Shell & BATS</p> |
 | <p align="center">[**Bank Tech Test**](https://github.com/josephtownshend/Bank)</p> | <p align="center">A technical test to build a command line banking app.</p>  | <p align="center">Ruby & RSpec</p> |
 | <p align="center">[**FizzBuzz Everything**](https://github.com/josephtownshend/FizzBuzz_In_Every_Language)</p> | <p align="center">An ongoing exploration into language and TDD through the medium of FizzBuzz.</p>  | <p align="center">Ruby & RSpec, Javascript & Jasmine, Python & Unittest, Java & Junit, Scala & ScalaTest + FunSuite, Elixir & ExUnit + mix, Clojure & clojure.test, Rust, GoLang, Swift & XCTest</p> |
-
-**<p align="center">What I'm working with right now...**
-          
-|  <p align="center">Java</p> | <p align="center">React</p>  |  <p align="center">APIs</p> |
-|---|---|---|
           
 -------
 
