@@ -33,7 +33,7 @@
 
 **<p align="center">Education</p>**
 
-**<p align="center"><a href="https://www.makers.tech/" target="blank">Makers Academy</a>**<br>Graduate of Europes Leading full-stack bootcamp<br>May 2019 –– August 2019</p>
+**<p align="center"><a href="https://www.makers.tech/" target="blank">Makers Academy</a>**<br>Graduate of Europe's leading full-stack bootcamp<br>May 2019 –– August 2019</p>
 
 <p align="center">• Worked on 30+ projects ranging from a notes app to a Facebook clone <br> 
           • Designed and built a programming language in 2 weeks <br> 
