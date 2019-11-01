@@ -66,7 +66,7 @@
           • Held clients such as The Design Museum, The Serpentine, <br>The British Fashion Council & Architectural Association</p></p>
 
 **<p align="center"><a href="http://www.joe-t.com" target="blank">Joseph Townshend Studio</a>**, **Founder**, 2010 –– 2019<br>
-          • Lectured at Bath Spa University.<br>
+          • Lectured at Bath Spa University<br>
           • Developed extensive expertise in print and book design<br>
           • Created numerous visual identities for emerging UK institutions<br>
           • Completed a project for Luke Vibert (a personal hero)</p>  
