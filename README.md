@@ -13,7 +13,7 @@
 
 **<p align="center">Technologies & Processes</p>**
 
-<p align="center"> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Ruby-328%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/JavaScript-384%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Java-124%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Python-120%20commits-orange.svg" alt=""></a></p>
+<p align="center"> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/JavaScript-431%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Ruby-328%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Java-124%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Python-120%20commits-orange.svg" alt=""></a></p>
 
 <p align="center">Pair Programming –– Agile Methodology –– Test Driven Development –– Behaviour Driven Development –– XP Values</p>
 
