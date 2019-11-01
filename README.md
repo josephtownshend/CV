@@ -41,7 +41,7 @@
           • Established excellent programming practices such as TDD and pairing<br>        
           • Became a skillful user of GitHub - READMEs, merges, pull requests & semantic commits</p>
 
-**<p align="center"><a href="https://www.rca.ac.uk/" target="blank">The Royal College of Art</a>**<br>MA Visual Communication (**Distinction**)<br>2014 –– 2016</p>
+**<p align="center"><a href="https://www.rca.ac.uk/" target="blank">The Royal College of Art</a>**<br>MA Visual Communication (**Excellent**)<br>2014 –– 2016</p>
   <p align="center">• Lectured as part of 'Reseach, Design, Publish' Symposium<br>
   • Shortlisted for the Varley prize</p>
 
