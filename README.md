@@ -53,7 +53,7 @@
 
 **<p align="center">Experience</p>**
 
-**<p align="center"><a href="https://coderdojo.com/" target="blank">CoderDojo</a>**, **Mentor**, August – November 2019<br>
+**<p align="center"><a href="https://coderdojo.com/" target="blank">CoderDojo</a>**, **Mentor**, Aug –– Nov 2019<br>
           • Teaching young people how to programme using Blockly & Scratch<br>
           • Working with a group of up to 8 students</p>   
 
