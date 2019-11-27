@@ -60,6 +60,7 @@
 **<p align="center"><a href="http://www.southkiosk.com" target="blank">South Kiosk</a>**, **Graphic Designer**, 2013 –– 2014<br>
           • Created visual identity for Vestige, an exhibition of <br>nostalgic tech held at The Design Museum, London <br>
           • Responsible for in-house print ephemera, digital marketing and assets</p>
+          
 -------
 
 **<p align="center">Education</p>**
