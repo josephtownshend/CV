@@ -28,7 +28,7 @@
           • Working with a group of up to 8 students</p>   
 
 **<p align="center"><a href="http://www.housework.press" target="blank">Housework(Press)</a>**, **Graphic Designer / Founder**, 2016 –– 2019<br>
-          • Completed over 250 projects<br>
+          • Completed over 250 successful projects<br>
           • Mentored 3 interns<br>
           • Taught workshops at the Royal College Of Art<br>
           • Held clients such as The Design Museum, The Serpentine, <br>The British Fashion Council & Architectural Association</p></p>
