@@ -33,7 +33,7 @@
           • Taught workshops at the Royal College Of Art<br>
           • Held clients such as The Design Museum, The Serpentine, <br>The British Fashion Council & Architectural Association</p></p>
 
-**<p align="center"><a href="http://www.joe-t.com" target="blank">Joseph Townshend Studio</a>**, **Graphic Designer / Founder**, 2010 –– 2019<br>
+**<p align="center"><a href="http://www.joe-t.com" target="blank">Joseph Townshend Studio</a>**, **Graphic Designer**, 2010 –– 2019<br>
           • Lectured at Bath Spa University<br>
           • Developed extensive expertise in print and book design<br>
           • Created numerous visual identities for emerging UK institutions<br>
