@@ -11,7 +11,7 @@
 
 <p align="center">I am a junior software engineer at Alfa Systems and recent graduate of Makers Academy in London. My background is in graphic design, print and the visual arts, which I studied for 6 years. I then ran two successful design and print studios before finally deciding to take my love of learning into the world of tech, and I haven't looked back. I am a passionate creative problem solver and always on the lookout for new processes to help build workarounds for troublesome situations.</p>
 
-**<p align="center">Technologies & Processes</p>**
+**<h2 align="center">Technologies & Processes</h2>**
 
 <p align="center"> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/JavaScript-431%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Ruby-328%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Java-124%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/josephtownshend"><img src="https://img.shields.io/badge/Python-120%20commits-orange.svg" alt=""></a></p>
 
@@ -19,7 +19,7 @@
 
 ------
 
-**<p align="center">Experience</p>**
+**<h2 align="center">Experience</h2>**
 
 **<p align="center"><a href="https://www.alfasystems.com/eu/" target="blank">Alfa Systems</a>**, **Junior Software Engineer**, Nov 2019 ––  Present<br>
 
@@ -51,7 +51,7 @@
           
 -------
 
-**<p align="center">Education</p>**
+**<h2 align="center">Education</h2>**
 
 **<p align="center"><a href="https://www.makers.tech/" target="blank">Makers Academy</a>**<br>Graduate of Europe's leading full-stack bootcamp<br>May 2019 –– August 2019</p>
 
@@ -71,10 +71,10 @@
 
 ------
 
-**<p align="center">Interests</p>**
+**<h2 align="center">Interests</h2>**
 
 <p align="center">• Motivated climber and active member of Makers Climbing & <a href="https://www.meetup.com/Tech-Climbing-London/" target="blank">Tech Climbing London</a>.<br>• Spending time outdoors (ideally up a mountain).<br>• Vegan cooking, and a quest to find great meat alternatives.<br>• Trying to write <a href="https://medium.com/@joetownshend1" target="blank">blog posts!</a></p>
 
-**<p align="center">Contact Info</p>**
+**<h2 align="center">Contact Info</h2>**
 
 <p align="center"> joetownshend@mac.com –– +44(0)7525252931 –– <a href="https://www.linkedin.com/in/joseph-townshend-934570182/" target="blank">LinkedIn</a></p>
