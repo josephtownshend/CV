@@ -9,7 +9,7 @@
                                 |_|                                                                
 ```
 
-<p align="center">I am a junior software engineer at **Alfa Systems** and recent graduate of **Makers Academy** in London. My background is in graphic design, print and the visual arts, which I studied for 6 years. I then ran two successful design and print studios before finally deciding to take my love of learning into the world of tech, and I haven't looked back. I am a passionate creative problem solver and always on the lookout for new processes to help build workarounds for troublesome situations.</p>
+<p align="center">I am a junior software engineer at Alfa Systems and recent graduate of Makers Academy in London. My background is in graphic design, print and the visual arts, which I studied for 6 years. I then ran two successful design and print studios before finally deciding to take my love of learning into the world of tech, and I haven't looked back. I am a passionate creative problem solver and always on the lookout for new processes to help build workarounds for troublesome situations.</p>
 
 **<p align="center">Technologies & Processes</p>**
 
@@ -57,7 +57,7 @@
 
 <p align="center">• Worked on 30+ projects ranging from a notes app to a Facebook clone <br> 
           • Designed and built a programming language in 2 weeks <br> 
-          • Consistently learnt new tech on the fly and under pressure, including Rails, JQuery & Python<br> 
+          • Consistently learnt new tech on the fly and under pressure - including Rails, JQuery & Python<br> 
           • Established excellent programming practices such as TDD and pairing<br>        
           • Became a skillful user of GitHub - READMEs, merges, pull requests & semantic commits</p>
 
