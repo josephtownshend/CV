@@ -24,7 +24,7 @@
 **<h3 align="center">Experience</h3>**
 
 **<p align="center"><a href="https://www.alfasystems.com/eu/" target="blank">Alfa Systems</a>**, **Junior Software Engineer**, Nov 2019 ––  Present<br>
-          • Writing test driven Java and Groovy<br>      
+          • Writing test driven Java and Groovy<br>     
           • Member of the Green Team</p>  
 
 **<p align="center"><a href="https://coderdojo.com/" target="blank">CoderDojo</a>**, **Mentor**, Aug –– Nov 2019<br>
