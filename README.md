@@ -1,12 +1,12 @@
 ``` 
-                _                      _       _______                      _                    _ 
-               | |                    | |     |__   __|                    | |                  | |
-               | | ___  ___  ___ _ __ | |__      | | _____      ___ __  ___| |__   ___ _ __   __| |
-           _   | |/ _ \/ __|/ _ \ '_ \| '_ \     | |/ _ \ \ /\ / / '_ \/ __| '_ \ / _ \ '_ \ / _` |
-          | |__| | (_) \__ \  __/ |_) | | | |    | | (_) \ V  V /| | | \__ \ | | |  __/ | | | (_| |
-           \____/ \___/|___/\___| .__/|_| |_|    |_|\___/ \_/\_/ |_| |_|___/_| |_|\___|_| |_|\__,_|
-                                | |                                                                
-                                |_|                                                                
+                 _                      _       _______                      _                    _ 
+                 | |                    | |     |__   __|                    | |                  | |
+                 | | ___  ___  ___ _ __ | |__      | | _____      ___ __  ___| |__   ___ _ __   __| |
+             _   | |/ _ \/ __|/ _ \ '_ \| '_ \     | |/ _ \ \ /\ / / '_ \/ __| '_ \ / _ \ '_ \ / _` |
+            | |__| | (_) \__ \  __/ |_) | | | |    | | (_) \ V  V /| | | \__ \ | | |  __/ | | | (_| |
+             \____/ \___/|___/\___| .__/|_| |_|    |_|\___/ \_/\_/ |_| |_|___/_| |_|\___|_| |_|\__,_|
+                                  | |                                                                
+                                  |_|                                                                
 ```
 
 <p align="center">I am a junior software engineer at Alfa Systems and recent graduate of Makers Academy in London. My background is in graphic design, print and the visual arts, which I studied for 6 years. I ran two successful design and print studios before finally deciding to take my love of learning into the world of tech, and I haven't looked back. I am a passionate creative problem solver and always on the lookout for new processes to help build workarounds for troublesome situations.</p>
